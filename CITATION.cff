@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "OMEN: Open Movement and Exercise Nomenclature"
+message: "If you use this standard or its reference encoder, please cite it."
+type: software
+authors:
+  - given-names: "Carlos Abel"
+    family-names: "Vivanco"
+    affiliation: "Independent Researcher"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID iD
+version: "0.1"
+date-released: 2026-09-03
+license: MIT
+abstract: >-
+  OMEN is a generative, computable naming standard for resistance-training
+  movements. It describes a movement as a bundle of orthogonal facets, derives
+  musculature from the movement pattern, and emits a canonical string plus a
+  short, stable, versioned identifier suitable as a database primary key.
+keywords:
+  - resistance training
+  - exercise nomenclature
+  - controlled vocabulary
+  - faceted classification
+  - data interoperability

@@ -1,0 +1,11 @@
+{
+ "sweep1": 2402400,
+ "distinct1": 2402400,
+ "collisions1": 0,
+ "sweep2": 96096,
+ "collisions2": 0,
+ "total": 2498496,
+ "total_collisions": 0,
+ "determinism": true,
+ "seconds": 34.7
+}
