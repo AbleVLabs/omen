@@ -12,67 +12,72 @@ EQUIP = {
     "body only": "bodyweight", "e-z curl bar": "ez-bar",
     "medicine ball": "medicine-ball",
 }
-EQUIP_GAP = {"exercise ball": "stability-ball", "foam roll": "foam-roller"}
+EQUIP_GAP = {"foam roll": "foam-roller"}
+EQUIP["exercise ball"] = "stability-ball"
 NAME_IMPLEMENT = [("smith", "smith-machine"), ("trap bar", "trap-bar"),
                   ("hex bar", "trap-bar"), ("sandbag", "sandbag"),
                   ("suspension", "suspension"), ("trx", "suspension"),
                   ("plate", "plate"), ("kettlebell", "kettlebell"),
                   ("bodyweight", "bodyweight"), ("body weight", "bodyweight"),
+                  ("atlas stone", "atlas-stone"), ("ab roller", "ab-wheel"),
+                  ("ab wheel", "ab-wheel"), ("sled", "sled"), ("tire", "tire"),
+                  ("rope climb", "climbing-rope"), ("chain", "chain"),
+                  ("exercise ball", "stability-ball"), ("stability ball", "stability-ball"),
+                  ("swiss ball", "stability-ball"),
                   ("barbell", "barbell"), ("dumbbell", "dumbbell"),
                   ("cable", "cable"), ("machine", "machine"), ("band", "band")]
 
 # Implements OMEN v0.1 has no term for (genuine vocabulary gaps).
 MISSING_IMPLEMENTS = [
-    (r"atlas stone", "atlas-stone"), (r"ab roller|ab wheel", "ab-wheel"),
-    (r"\bsled\b", "sled"), (r"\btire\b", "tire"),
-    (r"exercise ball|stability ball|swiss ball", "stability-ball"),
-    (r"foam roll", "foam-roller"), (r"rope climb", "climbing-rope"),
-    (r"\bchain\b", "chains"), (r"\bbag\b", "heavy-bag"),
+    (r"foam roll", "foam-roller"), (r"\bbag\b", "heavy-bag"),
 ]
 
 # Movements OMEN v0.1 has no pattern for -> the extension queue.
 KNOWN_GAPS = [
-    (r"\bshrug", "scapular-elevation"),
-    (r"\bfly|\bflye|pec deck|pec-deck", "shoulder-horizontal-adduction"),
-    (r"pullover", "shoulder-extension (pullover)"),
-    (r"upright row", "scapular-elevation / upright-row"),
     (r"\bclean\b|\bsnatch\b|\bjerk\b|muscle up|muscle-up", "olympic / multi-phase lift"),
     (r"thruster|burpee|turkish", "complex multi-pattern"),
-    (r"\bneck\b", "cervical movement"),
     (r"wrist roller|finger|gripper", "grip / finger flexion"),
 ]
 # Ordered, specific first. (regex, pattern)
 RULES = [
     (r"side plank|suitcase", "anti-lateral-flexion"),
+    (r"side bend|lateral flexion", "spinal-lateral-flexion"),
     (r"pallof", "anti-rotation"),
     (r"\bplank\b|ab wheel|rollout|hollow", "anti-extension"),
-    (r"russian twist|wood ?chop|twist\b|rotation", "rotation"),
-    (r"crunch|sit-?up|v-?up|leg raise|knee raise|toe touch|jackknife", "spinal-flexion"),
+    (r"russian twist|wood ?chop|twist\b", "rotation"),
+    (r"leg raise|knee raise|leg lift|hip flexion", "hip-flexion"),
+    (r"crunch|sit-?up|v-?up|toe touch|jackknife", "spinal-flexion"),
+    (r"back extension|hyperextension|superman", "spinal-extension"),
+    (r"\bneck\b", "cervical-flexion"),
     (r"carry|farmer", "loaded-carry"),
+    (r"tibialis|dorsiflex", "dorsiflexion"),
     (r"calf raise|calf press|heel raise|toe press", "plantarflexion"),
-    (r"wrist curl", "wrist-flexion"),
-    (r"reverse wrist|wrist extension", "wrist-extension"),
     (r"leg extension|knee extension", "knee-extension"),
     (r"leg curl|hamstring curl|lying curl", "knee-flexion"),
-    (r"hip thrust|glute bridge|kickback|donkey kick|back extension|hyperextension|glute-ham|pull-?through",
-     "hip-extension"),
+    (r"hip thrust|glute bridge|glute kickback|donkey kick|glute-ham|pull-?through", "hip-extension"),
     (r"abduct|abductor", "hip-abduction"),
     (r"adduct|adductor", "hip-adduction"),
     (r"lunge|split squat|step-?up|bulgarian", "lunge"),
     (r"squat|leg press|hack ", "squat"),
     (r"deadlift|romanian|rdl|good morning|swing|hinge", "hip-hinge"),
+    (r"external rotation", "shoulder-external-rotation"),
+    (r"internal rotation", "shoulder-internal-rotation"),
+    (r"shrug|upright row", "scapular-elevation"),
+    (r"pullover", "shoulder-extension"),
+    (r"rear delt|reverse fly|rear lateral|face pull|reverse pec", "shoulder-horizontal-abduction"),
+    (r"\bfly|\bflye|pec deck|pec-deck", "shoulder-horizontal-adduction"),
     (r"lateral raise|side lateral|side raise", "shoulder-abduction"),
     (r"front raise", "shoulder-flexion"),
-    (r"rear delt|reverse fly|rear lateral|face pull|reverse pec", "shoulder-horizontal-abduction"),
     (r"pull-?up|chin-?up|pulldown|pull down|lat pull", "vertical-pull"),
     (r"\brow\b|rowing", "horizontal-pull"),
-    (r"shoulder press|overhead press|military press|push press|arnold|handstand push",
-     "vertical-push"),
+    (r"shoulder press|overhead press|military press|push press|arnold|handstand push", "vertical-push"),
     (r"bench press|chest press|push-?up|pushup|floor press|\bdip\b", "horizontal-push"),
+    (r"wrist curl", "wrist-flexion"),
+    (r"reverse wrist|wrist extension", "wrist-extension"),
     (r"pushdown|push-?down|skull|french press|triceps ext|tricep ext|kick-?back", "elbow-extension"),
     (r"\bcurl\b", "elbow-flexion"),
-    (r"\bpress\b", "vertical-push"),          # generic press, after specifics
-    (r"extension", "elbow-extension"),        # generic, after specifics
+    (r"\bpress\b", "vertical-push"),
+    (r"extension", "elbow-extension"),
 ]
 MUSCLE_FALLBACK = {
     "biceps": "elbow-flexion", "triceps": "elbow-extension",
@@ -82,8 +87,9 @@ MUSCLE_FALLBACK = {
     "lower back": "hip-hinge", "chest": "horizontal-push",
     "shoulders": "vertical-push", "forearms": "wrist-flexion",
     "abductors": "hip-abduction", "adductors": "hip-adduction",
+    "traps": "scapular-elevation", "neck": "cervical-flexion",
 }
-MUSCLE_GAP = {"traps": "scapular-elevation", "neck": "cervical movement"}
+MUSCLE_GAP = {}
 POSTURE_TOK = [("seated", "seated"), ("sitting", "seated"), ("standing", "standing"),
                ("lying", "supine"), ("supine", "supine"), ("prone", "prone"),
                ("kneeling", "kneeling"), ("bent-over", "bent-over"), ("bent over", "bent-over"),

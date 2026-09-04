@@ -20,11 +20,11 @@ for e in recs:
 
 den_all=len(recs); den_adj=den_all-under
 print("="*68)
-print("OMEN v0.1 COVERAGE AUDIT  ·  Free Exercise DB (876 records)")
+print("OMEN v0.2 COVERAGE AUDIT  ·  Free Exercise DB (876 records)")
 print("="*68)
 print(f"Out of scope by design (stretching, cardio)   {len(ex)-len(recs)}")
 print(f"Resistance-training records                   {den_all}")
-print(f"  encodable in OMEN v0.1                      {enc}")
+print(f"  encodable in OMEN v0.2                      {enc}")
 print(f"  OMEN vocabulary gap (needs new term)        {vocab_gap}")
 print(f"  source record underspecified (not OMEN)     {under}")
 print()
@@ -37,7 +37,7 @@ print(f"Key collisions (distinct records, same key)   {coll}")
 print(f"Posture unstated in source name  {pst['posture_inferred']}/{enc} "
       f"({pst['posture_inferred']/enc*100:.0f}% underspecified)")
 print()
-print("--- v0.2 EXTENSION QUEUE (vocabulary gaps only) ---")
+print("--- REMAINING GAPS (v0.3 queue) (vocabulary gaps only) ---")
 for t,c in gaps.most_common():
     print(f"  {c:3d}  {t}\n         e.g. {', '.join(gap_ex[t][:3])}")
 json.dump({"total":len(ex),"out_of_scope":len(ex)-len(recs),"resistance":den_all,

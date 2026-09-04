@@ -51,14 +51,39 @@ same key), non-collision, predictable default expansion, first-class contraction
 
 `OMEN_whitepaper.docx` is the full proposal: the problem and its documented cost, the
 three layers of prior art, the design principles, the facet model, the serialization
-and identifier scheme, worked examples, the reference implementation, an evaluation
-protocol (inter-annotator agreement), and a governance/versioning model. `build_paper.js`
-regenerates it.
+and identifier scheme, worked examples, the reference implementation, **an evaluation
+with results (Section 9)**, and a governance/versioning model. `build_paper.js`
+regenerates it. Figures live in `figures/`.
+
+## Reproduce the results
+
+Every number in Section 9 regenerates from `audit/`:
+
+```
+cd audit
+python audit2.py     # coverage audit + extension queue + synonymy
+python stress.py     # collision / determinism sweep (~30s)
+```
 
 ## Status
 
-Working draft, standard version **0.1**. The evaluation in the paper is a design, not
-yet a result — the inter-annotator study and coverage audit come next, and drive v1.0.
+Standard version **0.2**. The vocabulary now covers, for every joint it addresses, the
+complete set of that joint's anatomical actions (42 movement patterns, 21 implements).
+The evaluation is reported in Section 9 of the paper:
+
+- **84.7%** of 678 resistance-training records in the Free Exercise DB encode without
+  inventing a term (**91.4%** of records carrying enough information to encode at all)
+- on a second corpus, **wger** (847 exercises, different naming conventions, audited with
+  the *same* script), only **1.9%** of records need a term the standard lacks
+- what remains uncovered is one principled category: **multi-phase Olympic lifts**
+- **574** distinct source names collapse to **304** keys, exposing 106 synonym clusters
+- **81%** of source names never state posture
+- **0** key collisions across **6,054,048** generated records
+- a **crosswalk** (`audit/omen_crosswalk.csv`) maps every audited record to its key
+
+Still outstanding, and the reason this is 0.2 and not 1.0: the **inter-annotator study**.
+Whether independent humans encode the same movement identically requires annotators. The
+full study kit lives in `iaa/` so anyone can run it.
 
 ---
 

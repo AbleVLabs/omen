@@ -2,74 +2,26 @@
  "total": 876,
  "out_of_scope": 198,
  "resistance": 678,
- "encoded": 511,
- "vocab_gap": 117,
+ "encoded": 574,
+ "vocab_gap": 54,
  "underspecified": 50,
- "cov_all": 75.4,
- "cov_adj": 81.4,
- "unique_keys": 253,
- "clusters": 93,
+ "cov_all": 84.7,
+ "cov_adj": 91.4,
+ "unique_keys": 304,
+ "clusters": 106,
  "collisions": 0,
- "posture_inferred_pct": 79,
+ "posture_inferred_pct": 81,
  "gaps": [
   [
    "olympic / multi-phase lift",
-   48
-  ],
-  [
-   "shoulder-horizontal-adduction",
-   13
-  ],
-  [
-   "scapular-elevation",
-   11
-  ],
-  [
-   "cervical movement",
-   9
-  ],
-  [
-   "stability-ball",
-   8
-  ],
-  [
-   "sled",
-   7
-  ],
-  [
-   "shoulder-extension (pullover)",
-   5
-  ],
-  [
-   "scapular-elevation / upright-row",
-   5
+   50
   ],
   [
    "complex multi-pattern",
    3
   ],
   [
-   "atlas-stone",
-   2
-  ],
-  [
-   "chains",
-   2
-  ],
-  [
-   "ab-wheel",
-   1
-  ],
-  [
    "grip / finger flexion",
-   1
-  ],
-  [
-   "climbing-rope",
-   1
-  ],
-  [
-   "tire",
    1
   ]
  ]

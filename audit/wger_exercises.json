@@ -1,0 +1,9298 @@
+[
+{
+"id": "c56078d2-ae85-4524-a467-d1e143b6df1a",
+"name": "Biceps Curls With Barbell",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "38919515-ce04-4383-9c3f-5846edd0e844",
+"name": "Biceps Curls With SZ-bar",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "48a59aa8-4568-409c-8afe-f8cb99c558ea",
+"name": "Biceps Curls With Dumbbell",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "aa4fcd9b-baee-41cf-b4c5-8462bc43a8be",
+"name": "Dips Between Two Benches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ee4a350b-c681-407f-a414-6ec243809ec7",
+"name": "Skullcrusher SZ-bar",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ee00d53e-4482-44aa-b780-bbc570061841",
+"name": "Skullcrusher Dumbbells",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6dcc9adb-939c-4581-9e44-d0d73753997b",
+"name": "Hammer Curls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d147a6c2-ce64-424b-baf3-4ca841a51512",
+"name": "Dumbbells on Scott Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "03d821e7-e1ac-4026-903b-d406381cbf76",
+"name": "Bench Press Narrow Grip",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f1b5e525-6232-4d60-a243-9b2cd6c55298",
+"name": "Triceps Extensions on Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "20a76bd0-1e56-4a4e-bd79-0ab118552bde",
+"name": "Triceps Extensions on Cable With Bar",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d325dd5c-6833-41c7-8eea-6b95c4871133",
+"name": "Crunches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8d6c13c6-256d-4137-b1c6-b0e817697639",
+"name": "Crunches With Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4bd55b0a-559a-4458-aabd-e66619b63610",
+"name": "Negative Crunches",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6709577b-95ec-4053-a822-d5fe1f753966",
+"name": "Crunches on Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fb750082-7034-4c51-b1e4-dfa0fe2dac8e",
+"name": "Sit-ups",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0ec76f5d-1311-4d6d-bf79-00fa17c3061a",
+"name": "Benchpress Dumbbells",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3c3857f8-d224-4d5a-8cc1-f4e7982d3475",
+"name": "Butterfly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "08637e04-d995-4c07-b021-a20f26b6fd97",
+"name": "Butterfly Narrow Grip",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b72ae8d4-ede6-4480-8fc5-7b80e369f7ed",
+"name": "Decline Bench Press Barbell",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "80d318b3-4b8a-41aa-9c6c-0a2a921fe1e6",
+"name": "Decline Bench Press Dumbbell",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "abc4c62e-27b2-4c31-8766-40f8dca84cab",
+"name": "Standing Calf Raises",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "399666e7-30a7-4b86-833d-4422e4c72b61",
+"name": "Sitting Calf Raises",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e7677699-5e4f-49e6-a645-e8915a203c4d",
+"name": "Calf Raises on Hackenschmitt Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "22cca8fc-cfaf-4941-b0f7-faf9f2937c52",
+"name": "Deadlifts",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3c3f23b5-b523-4a69-8c79-1106a4ce9b6d",
+"name": "Rowing, T-bar",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7ce6b090-5099-4cd0-83ae-1a02725c868b",
+"name": "Pull-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "57747eb3-411a-4efd-8842-a45e562320ee",
+"name": "Rowing seated, narrow grip",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f82c579e-c069-4dc7-8e36-a3266dfd8e4a",
+"name": "Bent Over Rowing",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "77688310-f2cf-4d37-a854-dca906387be7",
+"name": "Bent Over Rowing Reverse",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c4856da3-8454-4857-8997-336d06df590f",
+"name": "Squats",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "587c0052-f2bc-48ca-8af9-415175308901",
+"name": "Dumbbell Lunges Standing",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ffd4ce7e-e14f-49d4-9dc9-dc1362631382",
+"name": "Dumbbell Lunges Walking",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3caed096-c65e-434d-9792-33db636743e7",
+"name": "Leg Presses (wide)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "560e1a20-33e1-45db-ba5b-63f8c51af76d",
+"name": "Leg Presses (narrow)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6e862700-3d63-486c-99ae-744c68d2f753",
+"name": "Good Mornings",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "61950a59-be4e-43cc-abc1-cb52abd15354",
+"name": "Leg Curls (sitting)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "89c98117-dd53-4334-bfa6-72a96525629a",
+"name": "Leg Curls (standing)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9926e18f-4e2b-4c20-9477-9bfb08d229bc",
+"name": "Shoulder Press, Barbell",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9e672a47-ad9e-4ae1-8fbe-011646da1c37",
+"name": "Fly With Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1df6a1b5-7bd2-402f-9d5e-94f9ed6d8b54",
+"name": "Shoulder Press, Dumbbells",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8715a96e-c8a2-458a-b023-4ea7d82fdab8",
+"name": "Butterfly Reverse",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7c3cc0ce-e335-4f5c-aa32-1576a908a539",
+"name": "Leg Raises, Lying",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3d8273d2-1fbe-4a8f-99a6-d2b5e204cb41",
+"name": "Leg Raises, Standing",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "61271a8e-6a00-4898-8dc3-ea9ef913f25e",
+"name": "Upright Row, SZ-bar",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f57a0c60-7d37-4eb3-a94e-1a90292e8c02",
+"name": "Hyperextensions",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8c6c1544-cbf8-403c-ae12-b27b392702f8",
+"name": "Biceps Curl With Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2966e4a2-4306-4cb5-a2dc-8951cd192555",
+"name": "Leg Press on Hackenschmidt Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5baf40e5-ea3c-4f8d-b60a-d294ee2de55b",
+"name": "Hammercurls on Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "88bbdbde-c9b6-45a1-aee9-efc6f02cfab3",
+"name": "Triceps on Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d46adbda-7c60-42a0-b1fd-9ec111b35956",
+"name": "Pull Ups on Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1ad8e721-9297-46c2-a983-7297ca4dfa52",
+"name": "Rowing, Lying on Bench",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b192c4eb-31c6-458e-b566-d3f38b5aa30c",
+"name": "Long-Pulley (low Row)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bcabc8cf-c005-4630-8853-ef4922e7fd91",
+"name": "Long-Pulley, Narrow",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "754391c6-39d5-4bb6-a311-68a520f6fd3a",
+"name": "Fly With Dumbbells",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "acf1f2df-46c4-49a3-8e6c-2979ea4204b1",
+"name": "Fly With Dumbbells, Decline Bench",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "26c72fd7-d5b9-497b-be5e-cdfe9715ddac",
+"name": "Upright Row, on Multi Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5345766a-c092-457a-aa21-8ee6ffa855d4",
+"name": "Lateral Raises",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "79a3a34c-262f-4cae-b827-b5a85b11b860",
+"name": "Lateral Rows on Cable, One Armed",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3721be0c-2a59-4bb9-90d3-695faaf028af",
+"name": "Shrugs, Barbells",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ee61aef0-f0c7-4a7a-882a-3b39312dfffd",
+"name": "Shrugs, Dumbbells",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7389be43-215b-4db8-8b69-75dc77004d74",
+"name": "Shoulder Press, on Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cd4fac32-48fb-4237-a263-a44c5108790a",
+"name": "Leg Curls (laying)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "68d505ec-5416-4153-b228-eb1545d5c89f",
+"name": "Shoulder Press, on Multi Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b1d6d536-7f4a-4dd3-8b76-62d7a984e115",
+"name": "Pistol Squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2738e6e0-2158-4a7e-8fbd-32657d043a65",
+"name": "Rack Deadlift",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6cfd927c-8009-4cc2-9501-acb3db417396",
+"name": "Incline Bench Press - Barbell",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a0d1e216-4517-46db-ac4c-fa11686fd513",
+"name": "High Pull",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "39c416c8-64db-4330-9d37-c41ec70048fb",
+"name": "Incline Plank With Alternate Floor Touch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5aab5983-55d6-4d4c-a24e-bc18704f50c5",
+"name": "Hanging Leg Raises",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c376346a-1923-4468-9320-b0f480c46b1e",
+"name": "Cable Woodchoppers",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2d728ea9-9e80-4d16-9d6c-801e1e4b4d0b",
+"name": "Incline Push up",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ec706f20-6ea7-40f9-96f4-994c66554e17",
+"name": "Splinter Sit-ups",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "53a9f95e-914c-4790-940f-f5346159ea72",
+"name": "Side Crunch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f6c4e2fa-226d-46e8-87dc-75fc8cd628bd",
+"name": "Chin-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bdb7bdbb-8930-46e5-8b98-eb13e604553f",
+"name": "Squat Jumps",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1f2d6fd6-bb93-424b-834e-e91dee52dcf3",
+"name": "Lat Pull Down (Straight Back)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dbe77958-51a8-4412-9927-4b24d80ed44f",
+"name": "Lat Pull Down (Leaning Back)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "742334a0-9a6e-4668-9883-fa578ead2a64",
+"name": "Power Clean",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b22cfb08-66ab-4e2d-9757-9dea7c5d47f8",
+"name": "Push Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f2e563d2-507b-4586-88c8-77652cd19648",
+"name": "Front Squats",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5da6340b-22ec-4c1b-a443-eef2f59f92f0",
+"name": "Bench Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "84b4e711-8b29-4541-ad58-dad967f82390",
+"name": "Preacher Curls",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "122f5dd3-fc8c-47fe-9a79-1c15cf784a60",
+"name": "Cross-Bench Dumbbell Pullovers",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e7fdd8fb-5e07-4a29-9d56-a005338b2e19",
+"name": "Overhand Cable Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eed05679-d1cb-44a2-a17d-dd5b0097c874",
+"name": "Pendelay Rows",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "504c91f8-5a76-4faa-943f-13799357a426",
+"name": "Wall Pushup",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "34fc154f-cc8d-4e52-adb7-ff0dad2d0770",
+"name": "Wide-grip Pulldown",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "83e079a9-b61c-413b-b055-f9cf515904f1",
+"name": "Single-arm Preacher Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7327ab51-7073-4c84-9e3f-2e83af40e96c",
+"name": "Incline Dumbbell Fly",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1b9ed9da-46d1-4484-8acc-236379ee823c",
+"name": "Cable Cross-over",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "438678dc-5a62-4496-9458-341af0616626",
+"name": "Reverse Bar Curl",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "335d0042-7cb3-41c3-af23-c22c8cb858ad",
+"name": "Stiff-legged Deadlifts",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "15c5dfa0-4103-4515-979d-807eee8faa53",
+"name": "Incline Bench Press - Dumbbell",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a36e5cec-3b9d-4dd5-a3fb-cbcc78a97c3b",
+"name": "Leverage Machine Chest Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bf618c32-b4b1-4bbb-a74f-73485e4143ed",
+"name": "Underhand Lat Pull Down",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "42b092ec-80b1-4471-90d1-e462a65ab18c",
+"name": "Close-grip Lat Pull Down",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "212e98e1-3917-422c-a030-8b312e6b1812",
+"name": "Leverage Machine Iso Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dc53ad5b-bd04-46d0-9499-28e9965f0e6d",
+"name": "Straight-arm Pull Down (rope Attachment)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "034a4dcd-d085-43fa-a2b5-6d54b444ac20",
+"name": "Straight-arm Pull Down (bar Attachment)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9d1c13b0-2e9b-4585-b1d7-fc48ba4c692f",
+"name": "Smith Machine Close-grip Bench Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "53ca25b3-61d9-4f72-bfdb-492b83484ff5",
+"name": "Arnold Shoulder Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a87de062-2101-4dc4-adda-328b4c722c6d",
+"name": "Front Raises",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "69f271a6-5408-49d9-8a3a-1f6088835f30",
+"name": "Rear Delt Raises",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "7729ffe5-a896-4deb-80e0-f4e6163c0c09",
+"name": "Plank",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9d1b45e0-0689-411d-915b-5c5e3452e2b0",
+"name": "Kettlebell Swings",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8aadcd68-f085-44a0-a897-8b6ecf827ed0",
+"name": "Military Press mit SZ-Bar",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "deb02a12-37ce-43d6-b3f2-c77ed2b4259f",
+"name": "Upper External Oblique",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "36ef5f12-6f77-4754-a926-39915e4b57a5",
+"name": "Decline Pushups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9f622058-85a4-4272-ad99-e5696e772137",
+"name": "Roman Chair",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a7e15f4f-a7e6-4c0c-9bcb-ef3de90201aa",
+"name": "Cable External Rotation",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "34ce7ec5-12a1-4bf8-b4f1-94544c3f1cfc",
+"name": "Bent High Pulls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "51d56238-31a1-4e5a-b747-da30eece4871",
+"name": "Run - Treadmill",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "625aefd5-7ba2-40e9-bdc3-7d3ab1bcf3b8",
+"name": "Pause Bench",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3490d1c7-c9ce-4a08-acd3-e0bdada71c37",
+"name": "Snach",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3f7b893e-a089-450f-b8cc-ec3ec17d3bf3",
+"name": "Dumbbell Triceps Extension",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dfa090e4-77ae-40ed-86c0-4696fe93dcf1",
+"name": "Dumbbell Concentration Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0203c27e-e3f0-4ae2-b5c3-f11c45336f54",
+"name": "Side Dumbbell Trunk Flexion",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "88568115-5e88-4afc-b005-e2f7d453ac13",
+"name": "Tricep Dumbbell Kickback",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e1881607-9418-4bcc-8c69-2301a579637e",
+"name": "L Hold",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "6add5973-86d0-4543-928a-6bb8b3f34efc",
+"name": "Axe Hold",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "3329b890-685a-475d-b8e5-42362711b445",
+"name": "Hercules Pillars",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a35655c8-6b2a-4606-b1d6-b57425986e2e",
+"name": "Stationary Bike",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "fa56d30a-7a8f-4084-aa68-46bd52f97959",
+"name": "Dumbbell Incline Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2120f390-4a5f-41bc-9139-045581a3a245",
+"name": "Dumbbell Goblet Squat",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fc63159a-3939-426c-b236-d4b39adbf28c",
+"name": "Side to Side Push Ups",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"abdominals",
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ce37341b-379c-4611-ac9f-830c6c3c397a",
+"name": "Flutter Kicks",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d79e7078-0dd3-4b49-8947-731e6aaa1de0",
+"name": "High Knee Jumps",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"calves",
+"quadriceps",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "aba7ba7a-6ff0-47d4-ab66-8952e21e38c5",
+"name": "Lateral-to-Front Raises",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1b8b1657-40fd-4e3b-97b7-1c79b1079f8e",
+"name": "Bear Walk 2",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"calves",
+"chest",
+"abdominals",
+"chest",
+"calves",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "074530d6-801a-404b-b3b7-adc207be69be",
+"name": "Calf Press Using Leg Press Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e17db782-6e28-48ef-9324-4c01672ffc54",
+"name": "Trunk Rotation With Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "97d7eba2-681f-4b14-8e78-7d9b5865d336",
+"name": "Upright Row w/ Dumbbells",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5708d3c5-0016-446b-b3f4-54b2120e8297",
+"name": "Lying Rotator Cuff Exercise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "1ec5352f-41da-408b-8e6c-3fef79475847",
+"name": "Hand Grip",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "bd07fc6b-db86-4139-b6de-e328cea0f694",
+"name": "Turkish Get-Up",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"abdominals",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1076ed41-6f7c-46c9-a28f-ab13fc1ab92c",
+"name": "Weighted Step-ups",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a36f852f-a29f-4f93-81b6-1012047ac1ee",
+"name": "Side Plank",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bf9e572d-d138-43e9-a486-a5c6ad9033f8",
+"name": "Full Sit Outs",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "273f9563-948a-44c8-9353-b7213703f502",
+"name": "Speed Deadlift",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ee291ad5-2064-4d0a-b252-c715f362e035",
+"name": "Diagonal Shoulder Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "6572a8e9-083c-4622-8f0c-6107a013a490",
+"name": "Superman",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "20b88059-3958-4184-9134-b48656ad868d",
+"name": "Isometric Wipers",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b6492677-07df-4399-bc90-20b58e4dba35",
+"name": "Shotgun Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fbbebbfc-a5b2-4573-8914-147ff60cb7c5",
+"name": "Incline Dumbbell Row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4e15a410-5530-4b86-964f-8af26e118e2b",
+"name": "Body-Ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "5bd3ba00-8f4e-4935-a682-87b150d830c8",
+"name": "Braced Squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1b9dc5bc-790b-4e21-a55d-f8b3115e94c5",
+"name": "Barbell Ab Rollout",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2cd5e256-20a7-4bc8-a7a8-d62bf8ce00cf",
+"name": "Barbell Triceps Extension",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c788d643-150a-4ac7-97ef-84643c6419bf",
+"name": "2 Handed Kettlebell Swing",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8976d255-d7e4-46c7-8079-ca525f0a7d0d",
+"name": "Deadhang",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e35528f9-1785-41b5-860a-3408a6c02b2d",
+"name": "Romanian Deadlift",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "6335de72-146f-4f38-886d-6b8a27db62ff",
+"name": "Burpees",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b9c97cec-ffc7-4e9a-8ecc-08b285aed3b4",
+"name": "Overhead Squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "472d117c-c2a9-47cf-a5c7-fdb9fbac23a9",
+"name": "Wall Handstand",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f7b6a6b0-6dd8-4648-9a32-83039f5e28e1",
+"name": "Ring Dips",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "00be3262-2783-4670-8cf4-70cacbff5ca1",
+"name": "Pike Push Ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f866fd75-c18d-4419-84b9-1b9ccd22adba",
+"name": "Bent Over Dumbbell Rows",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5b12d361-be23-4f61-94af-0cc1665711ca",
+"name": "Hip Raise, Lying",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4b3025a9-b717-4577-9e92-b1c200fe5f1c",
+"name": "Seated Hip Adduction",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "83b741dc-fd19-4c85-ac0c-b0388c5838e6",
+"name": "Deficit Deadlift",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "22eb7cf6-bf6c-42c3-a1c8-85c2fc2ed931",
+"name": "Standing Rope Forearm",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "9910d61d-b5d4-44fe-8b5f-00fa6e2aaf76",
+"name": "Hollow Hold",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "76964898-192c-4e93-b24c-914ea542002b",
+"name": "Seated Triceps Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b229c57f-5363-41e2-add7-c2501a31de0b",
+"name": "Wall Squat",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "222e10a6-e3ba-40fd-9598-6c1d664b450a",
+"name": "Low Box Squat - Wide Stance",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "659f3fb9-2370-42fb-9c29-9aaf65c7a7de",
+"name": "Facepull",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2fb46a71-adf6-4197-ac17-d4bdb63f69b0",
+"name": "Thruster",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bbee856a-abe0-4a5f-a622-d5f85ee1d1f1",
+"name": "Run",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2359347e-0561-4d03-b050-b3c18f9d7b37",
+"name": "Run - Interval Training",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "30a8ef85-a24c-4f44-b558-55d3279b29c5",
+"name": "Reverse Grip Bench Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ae6a6c23-4616-49b7-a152-49d7461c2b7f",
+"name": "Barbell Lunges Standing",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1215dad0-b7e0-42c6-80d4-112f69acb68a",
+"name": "Barbell Hack Squats",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "97ae7d90-a4b2-472c-bf7b-826df674622c",
+"name": "Glute Bridge",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "75ec610d-216a-49fe-b395-c5fd8ee14b53",
+"name": "Reverse Plank",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2c864448-288d-4e79-9da6-a3c99af3c1fb",
+"name": "Skipping - Standard",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6ec0d447-1dfa-40fa-9fad-9a86c222d1a4",
+"name": "Crunches With Legs Up",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "170cc52f-345f-41b3-bdae-8a5e0c9aa449",
+"name": "Bent-over Lateral Raises",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "9f705970-cba3-4cef-a582-c2cc69ae9b5f",
+"name": "Side-lying External Rotation",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "7277d3bb-e68b-48fb-829e-37e13268f124",
+"name": "Jogging",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "36f940ff-6352-4480-b763-1234438f6624",
+"name": "V-Bar Pulldown",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "82a0a7e2-2d4d-4336-9412-f9878575f709",
+"name": "Prone Scapular Retraction - Arms at Side",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e3c163b4-205e-457f-8b91-68e5c6d6be96",
+"name": "Deadbug",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e934e2b2-abe7-411d-b753-8ce298391b9e",
+"name": "Wall Slides",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"hamstrings",
+"chest",
+"traps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "73b4ef1a-1a3b-4328-b455-fcd27a100c0a",
+"name": "Sumo Deadlift",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f4dd363c-b49c-419a-b8ae-0d8e18728d8e",
+"name": "Sumo Squats",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "85b2f07b-2ce3-4c85-82ab-474a6e5620b2",
+"name": "Muscle up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d89d34e8-2bd6-4d85-acf7-cae5d776c5e9",
+"name": "Scissors",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "06dee092-b84a-40b4-986f-b0b3e64adc22",
+"name": "Hindu Squats",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f8a14f95-bdf7-433a-a1db-ef26b4ecd2e9",
+"name": "Renegade Row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0fe97ed6-7d37-444c-90b6-f855cea68a6f",
+"name": "Barbell Wrist Curl",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "95b25f5e-4a01-48f1-a3df-2b7fe8fd624d",
+"name": "Barbell Reverse Wrist Curl",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "6163bf70-c825-49f4-8edb-69c2ee45f42e",
+"name": "Standing Bicep Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bdcae845-6726-457f-8e04-203754a78e1c",
+"name": "Reverse Curl",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7191e015-0c60-4376-9be0-733b9754b7f8",
+"name": "Dips",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6c8e863c-f6c2-4ad0-a0e9-5e6d9e6a928b",
+"name": "Leg Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d543595d-bbad-40b8-a9a4-e67cbdb76490",
+"name": "Leg Raise",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "43f534f6-fca3-4ad0-beda-0c68a0a5f0f8",
+"name": "Leg Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "85e6baf6-f8a3-48ea-9365-ef2bf5b3c6d1",
+"name": "Squat Thrust",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps",
+"abdominals",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7b4243cd-6da8-4e68-a972-6e1650f6e790",
+"name": "Row",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0849d95d-e83b-44bd-ae95-1fcb89fa5a04",
+"name": "Chin Up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "57e739b5-e931-405f-a548-d419a70ea602",
+"name": "Leg Extension",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4f7900d8-3cd8-41ae-8eec-a3e540c5b3ea",
+"name": "Shoulder Shrug",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "035d5dfc-1a1b-480b-bc9b-b6f634f19aee",
+"name": "Cycling",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f568e69c-5fe8-4288-a0c3-926087b8c4e3",
+"name": "Handstand Pushup",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "75ab9694-63f2-4794-ae2f-e93abb2255b8",
+"name": "Jumping Jacks",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "37097633-de80-4271-9b7c-291f359e0ef4",
+"name": "Hip Thrust",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ae308b2f-ceb2-4517-93b8-3b90f37fad47",
+"name": "Dumbbell Push-Up",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "985b49e0-7f65-4835-aab0-7b903744a3e0",
+"name": "Rowing with TRX band",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a0279f68-99d5-4fa1-85d7-12c748df2670",
+"name": "Front Raises with Plates",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7bea4473-bc35-43e8-9f31-d78cb0b7f6f4",
+"name": "Calf raises, one legged",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0743a2ce-b3e6-4ad0-87ad-b6030a2342aa",
+"name": "Incline Bench Press - MP",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7c18ee6b-a886-4e41-8eae-79bf2bea3d43",
+"name": "Diamond push ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "52a4cc0b-6d56-479d-b3b3-4a6a390cc379",
+"name": "Ball crunches",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c4023ac6-b7b6-4f16-a177-62116c45ff39",
+"name": "Incline Crunches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b368663d-f71f-4689-b462-76ac86a06362",
+"name": "Barbell Lunges Walking",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "9a427e41-a28b-40b5-ab44-d35f8071ecd9",
+"name": "Squats on Multipress",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e6dab89e-e3d8-4bd8-8993-b5f52462cbde",
+"name": "One Arm Triceps Extensions on Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "61b5649c-e712-4fcc-9d0e-7f0febb847ee",
+"name": "Single Leg Extension",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b69e5587-b498-4365-9660-d9cb1127f72f",
+"name": "Front Pull narrow",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b1b8a41e-39b9-4487-91e5-f3097ea89c3d",
+"name": "Front pull wide",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c7f7aa80-f9ae-4aad-ac9b-76b70e60cf8f",
+"name": "Shrugs on Multipress",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "60d8018d-296f-4c62-a80b-f609a25d34ea",
+"name": "Abdominal Stabilization",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9ac933ec-0f44-4788-a601-37d0204b84e5",
+"name": "Front Wood Chop",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "cdb7b4c4-d856-455f-8298-e4d86bc1f3fd",
+"name": "Chest Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "69bf5843-7c93-41b9-afd4-cf12ba74c248",
+"name": "Landmine press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6364b90f-ce07-4fae-a9d6-b78812fe40c6",
+"name": "Overhead Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1fe78f88-695e-4a4c-a067-fd69720e6553",
+"name": "Side Bends on Machine",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2e1a541d-e857-402b-8656-a4e4e886a82b",
+"name": "Sloper hanging",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "51595d74-afe2-4445-88ec-2a289251e710",
+"name": "Tricep Pushdown on Cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "11437c81-ca9e-4670-a9df-2ddf2566f419",
+"name": "Fingerboard 20 mm edge",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f7be99bb-9f41-4c7d-8228-f90ec2368007",
+"name": "Pullup on fingerboard",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e99166c7-caf9-44fc-a8b0-9249a2ebb6b5",
+"name": "Cable Rear Delt Fly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b23175a3-a587-4ce5-a403-c989ebbce609",
+"name": "Front Plate Raise",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ee2199f8-f649-4147-8a27-d2fd45497a10",
+"name": "Incline Bench Reverse Fly",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9cfdd32d-af63-40a5-b475-dcaa3baa3171",
+"name": "Rear Delt Raise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ce0f992e-f639-4489-ba51-80ee27720134",
+"name": "Barbell Hip Thrust",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "58107eea-4dcf-42e6-90a8-c8d11735f155",
+"name": "Handstand Push Up",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d435670f-e539-43fd-95d0-556acbb0ad65",
+"name": "Zone 2 Running",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "733cbcb9-eb5f-4169-b788-d447fc1d982d",
+"name": "Reverse Nordic Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2e7fadca-0c4c-4411-8c3f-d78ae56f561e",
+"name": "Nordic Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9f3b65c3-5191-4691-b3f6-0e009540cde5",
+"name": "Incline Skull Crush",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4b23cdcf-8816-4722-853a-0dca19d989b6",
+"name": "Straight Bar Cable Curls",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "39308aa7-f769-4907-a6c8-9a7941898343",
+"name": "Reverse Preacher Curl (Close Grip)",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f28a95f2-8d8a-4728-9fba-e57cde66c8d2",
+"name": "Reverse EZ Bar Cable Curls",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "22776277-c17c-40e9-8020-551b466f764d",
+"name": "BUS DRIVERS",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bdb92058-c475-45f7-944f-f440739916a4",
+"name": "Smith Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dd546891-ae85-4968-b718-4ee99dd03fd2",
+"name": "Straight Bar Cable Front Raise",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d2d37e24-fc62-40f3-b48c-5a274da78a19",
+"name": "Seated Dumbbell Side Lateral",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "72191e47-540e-4fe8-baf9-04216bf36aee",
+"name": "T-Bar row",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "45cef479-6679-49d1-8aaa-5f7b8a0feb7b",
+"name": "Seated Cable Rows",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "335bb538-1e17-48f7-8e45-0a9811362d59",
+"name": "SEATED CABLE MID TRAP SHRUG",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "204795fd-9c36-4198-b9fc-6a3aae0a19bf",
+"name": "LYING DUMBBELL ROW SS SEATED SHRUG",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1701f903-da7d-40ff-be1c-1949744fee21",
+"name": "Cable Fly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "455b8020-31b5-4074-b2f9-fc18038d1de1",
+"name": "SMITH MACHINE SLIGHT INCLINE PRESS",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "383a2657-0807-4b13-beff-a6b6c928fc1b",
+"name": "Machine chest fly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b2a64542-b93f-4ab5-8562-f8b7de599ff2",
+"name": "Suspended crossess",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5c09a625-ee7c-4d36-b863-4c6cb7eafd84",
+"name": "Quadriped Arm and Leg Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "14c7bcde-9182-4473-8e87-b510b7ae324c",
+"name": "Biceps with TRX",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bf6cc460-5996-452b-a40e-a137da1ec13e",
+"name": "TRX Rows",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ca7a14d8-ca6b-4007-8fae-9ebeba53c773",
+"name": "Kettlebell Swing",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e92206ab-ee30-4a89-ac50-947a962e1c76",
+"name": "Swimming 50m sprints",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "7e2bc88a-f00f-4bfb-856e-78432b70d8ba",
+"name": "Elliptical",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2235f9e1-099e-4595-8acf-a79a09fdece6",
+"name": "Curl with kettlebell two hands",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "03888fad-eeff-4b01-ac68-182269658a07",
+"name": "one-handed kettlebell curls",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a1d94c5e-b82d-4698-9013-a10719402286",
+"name": "Medicine ball booklet crunch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dbabc12d-9555-4a8f-bd8d-e771ec91f8a2",
+"name": "Box squat",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f8aa76b7-5450-4fa3-8376-481429d0b04a",
+"name": "Knee Raises",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "aa399236-f284-49e3-ada5-6725104662b3",
+"name": "Leg raises pull up bar",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0e2afa02-bf91-4d24-a322-6c81748a98ae",
+"name": "commando pull-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7a7339d1-c4fa-4513-bd4c-8312922e87b0",
+"name": "Step-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b57ecb2f-aee5-4536-9059-0050ed42bf4c",
+"name": "High knees",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b1844fd6-0360-4cd4-9008-bbe2e9c4e73d",
+"name": "Lunges",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c689c8d2-e826-4e07-8e51-3845e8a18c7a",
+"name": "Push-up rotations",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "90e32522-830e-48a4-a5f3-93559a63ddaf",
+"name": "Side split squats left",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a5ce1d7b-0b09-4f9d-aa9d-7800d5bbff22",
+"name": "Side split squats right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2af89abc-2842-4267-9460-090625dd2abd",
+"name": "Bulgarian split squats left",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2844989f-a714-4e40-8358-c6798dbbeee4",
+"name": "Bulgarian split squats right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c61ad7bc-a4f5-4f19-a104-fcfcb6405c1a",
+"name": "Kneeling kickbacks",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c512eb54-95a4-438d-9922-991d9323bace",
+"name": "Split squats left",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "fb741d38-8b3c-41fb-9865-3fee9238a508",
+"name": "Split squats right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "81ac11b3-8f09-400c-a463-03a27a1d0aa5",
+"name": "Jump rope: basic jumps",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "193766bc-e01d-42eb-8128-44e0b54189ac",
+"name": "Forward arm circles",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b1079220-e97d-4487-8130-7bea2d6d5c75",
+"name": "Backward arm circles",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f31282f4-1e52-4a86-9d38-d0fbc457fd7d",
+"name": "Mountain climbers",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "66fe654d-3379-46e8-95dc-23e3ce56f25c",
+"name": "4-count burpees",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "30605c09-a2f3-4eba-87c4-8fee36babffd",
+"name": "No push-up burpees",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4c461c93-c204-4171-bb4b-187ae7f6fcad",
+"name": "Reverse lunges",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "d24f840e-395d-4869-80e0-a2caef9efedc",
+"name": "Floor dips",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b75c31cc-c872-46fc-8dc9-f09bc68cd728",
+"name": "High plank",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "81e25f25-3007-4798-b6f9-6e1d583eddb2",
+"name": "Child's pose",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2097b0e1-23c1-497a-ad40-9cffbc433828",
+"name": "Kettlebell deadlifts",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "05be0e87-abfd-4360-ab14-3691d8c93709",
+"name": "Forward shoulder rotation",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b461b63e-39cc-4ce5-9cd1-fd3094004e38",
+"name": "Backward shoulder rotation",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "03ae0af2-f4a7-433d-af6f-5d545174c0a0",
+"name": "Chin tuck",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8a38656a-5a30-4e43-95d3-1c6d30fc4614",
+"name": "Head turns",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "d7c0b145-6322-4a7f-b738-a63236911da4",
+"name": "Left neck stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f0ede89b-440f-464c-bee9-d4ce0ae1b624",
+"name": "Right neck stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e5a2e93a-e0b1-44e8-965d-c806bc2d2280",
+"name": "Back neck stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ba18aec7-8e0b-44f7-b086-93f97845d168",
+"name": "Front neck stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ad8b39c2-fcf1-47fd-b096-e40defd13f3a",
+"name": "Alternating bicep curls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "0b7bca06-866d-4aab-ac36-cab6c18ba6d2",
+"name": "Left levator scapulae stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "7657dfb4-ce78-468a-94a8-3c6816693a39",
+"name": "Right levator scapulae stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c7f01288-e2a6-4bb3-a828-d99ceac3a1d0",
+"name": "Clockwise neck circles",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "942230b0-9f0e-430b-888d-63e407ee0986",
+"name": "Counterclockwise neck circles",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c4274eb8-d169-4834-98ff-435e1add1548",
+"name": "Neck half circles",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "65b8dacf-8718-49ce-a7a3-da525ecbb82b",
+"name": "Head tilts",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "16414794-7fe4-4c0c-a2f8-05531b348f9d",
+"name": "Side plank right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "55997192-8d5c-40a0-b73e-579b5544725c",
+"name": "Pistol squats right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a0e5fc99-3143-4b64-ba30-cff0d20cec16",
+"name": "Calf raises, right leg",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "7366fcb9-76f4-4903-b181-d530b1451531",
+"name": "Single Arm Plank to Row",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"biceps",
+"lats",
+"abdominals",
+"abdominals",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "94726b91-7222-4749-9803-7cb06886abb7",
+"name": "Elevated prayer stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "be578695-dafb-4721-8c53-cf01fed0bc9c",
+"name": "Quadruped thoracic rotation left",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2e86f045-f7a0-40c5-9ddc-c294ac90aa58",
+"name": "Quadruped thoracic rotation right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "862ae802-9f50-46a5-8239-44e61ac1c28f",
+"name": "Plate twist",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2c87c284-2031-44e1-aaf6-e9115c04517b",
+"name": "Hindu Pushups",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "633d0dd4-62e2-45da-817c-432b2be5c016",
+"name": "Shoulder dislocates",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f83e5f89-37f0-4ddd-80b2-b775eef17e9a",
+"name": "Bent over row to external rotation",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ad265008-c28a-4bc8-a5f3-a245e2c78eeb",
+"name": "YWTs",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "1f86cda6-3360-43a9-af6f-4ef03e5562ab",
+"name": "Dumbbell Floor Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fcc63509-bd5d-4301-9ae6-5ae46b961cdd",
+"name": "Dumbbell Bent Over Row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"lats",
+"chest",
+"traps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "308e547c-b03b-4d52-b078-15b96fe4d490",
+"name": "Close-grip Press-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2adddc2c-9d50-434e-9062-1df7a7ce0b61",
+"name": "Dumbbell Hang Power Cleans",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a5f71cd1-626c-430f-bfda-4ba6a3c5c4d2",
+"name": "Dumbbell sumo deadlift",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "42f938e4-76d0-43b5-9baf-0ea39a10a7ac",
+"name": "Medicine ball twist",
+"equipment": "exercise ball",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4e1cc5f7-7e8e-433c-ae20-7c968c0f7c80",
+"name": "Vpushup",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"quadriceps",
+"abdominals",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4ee07a72-f74a-44ed-8a59-c6e5fee214cc",
+"name": "Plank Shoulder Taps",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4ed2c6a0-9a03-41c3-b7e9-287342080fa9",
+"name": "Bag training",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f58a1356-6938-4a6d-8ab2-e5de42fc0550",
+"name": "Rowing Machine",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"hamstrings",
+"biceps",
+"calves",
+"glutes",
+"lats",
+"abdominals",
+"quadriceps",
+"abdominals",
+"chest",
+"calves",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "68c39c38-2459-449f-985d-465624f45f12",
+"name": "Seated Bench Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5eda0a41-3a58-4424-acdb-5a02a4e5c113",
+"name": "Abduction while standing",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8d283974-d497-4a17-9f53-e80f755ed352",
+"name": "Seated rear delt rise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "baedbebc-6c43-4cbf-9b36-840bfcc8dad5",
+"name": "Dynamic side hold",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "165209d4-5822-45fe-94ef-3a968ab5ef0b",
+"name": "Wall balls",
+"equipment": "exercise ball",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "10849119-c5bb-4a92-8783-f20eba40b933",
+"name": "Horizontal traction isometry",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b6771fbc-f99a-477a-be36-52b97dc9a952",
+"name": "Alternate back lunges",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5cc4bee8-be36-4347-bcaf-16b0f9169f13",
+"name": "walking bridge",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8cc7b46b-0a20-401a-8042-b68b85ac821d",
+"name": "Walking",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"calves",
+"glutes",
+"lats",
+"abdominals",
+"quadriceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f5529ff2-9ea2-4261-9b19-c769b1e971a5",
+"name": "Seated Knee Tuck",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5fe56dc9-1dee-4b6b-af2d-5d95528b4a0a",
+"name": "Cable Concentration Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "22352037-fefd-4197-a1fc-6acec127dcd0",
+"name": "Push-Ups | Incline",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ff551c76-3772-48f9-9cdb-396f45da05d7",
+"name": "Push-Ups | Decline",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "26ce0057-e788-43b8-965f-2fae036ae666",
+"name": "Push-Ups | Parallettes",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b2cae6bf-a383-42cc-92ca-4c06eb8d14fc",
+"name": "Rest (for timed workouts)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "bece2c5e-aadc-4d20-bde2-64b5b53f53f0",
+"name": "3D lunge warmup",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "22319024-a420-4a24-849d-759c4ae79bf8",
+"name": "Dumbbell farmer's carry",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "52db74e5-ca32-4811-a0d5-3c667e4c8f7b",
+"name": "Seated Cable Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "1c2af35d-84b2-4ca8-a237-0e948b392e37",
+"name": "Remo maquina agarre estrecho",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ea27bd3b-6a3b-4b38-83bf-3583d6aad45f",
+"name": "Remo maquina agarre estrecho supino",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "937d4453-c30d-4300-9f19-f83a6efec883",
+"name": "Jal\u00f3n abierto",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a008d3c6-3075-4765-8fbc-5bd3bc19b565",
+"name": "Jal\u00f3n abierto supino",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2419b387-76ac-4a0c-af54-9fba306c54e3",
+"name": "Jal\u00f3n cerrado",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3b738355-b6eb-474d-ac9b-2902b4f68ddf",
+"name": "Jal\u00f3n cerrado supino",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2c3793b1-8e6b-4117-8154-6140143a05fe",
+"name": "Extensi\u00f3n de gluteos en polea",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "00a01320-1382-4f36-aa1e-d603a180c0e6",
+"name": "Extensi\u00f3n de gluteo en  m\u00e1quina",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f7951980-5b23-4e09-812f-dd9c0939c618",
+"name": "JALONES PECHO NEUTRO",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "87f25329-82e6-4bb7-97f4-31d44cddb047",
+"name": "PULL OVER POLEA ALTA",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fa1371d7-a27b-4b25-ac74-9c0e603c44c3",
+"name": "JALON EN BANCO INCLINADO",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "479dd60e-ad8e-4338-ad9e-7996da30c84b",
+"name": "Arabesque",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c6e202ff-0b92-4200-8a38-e09db554e6e0",
+"name": "Back extensi\u00f3n",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f34914be-4155-4576-879b-7c024f8b02ff",
+"name": "Triceps Pushdown",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6a777fd3-cbe7-4051-94c5-a247a23a7bce",
+"name": "One Arm Bent Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4d07c7bb-00d8-48e7-bf70-20627d27ff53",
+"name": "Flexi\u00f3n lateral",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "1e6a664c-ee0c-45c4-8da2-95a1f7711011",
+"name": "Curl de biceps con agarre prono",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a4467288-4034-4b90-9840-145f7b890d9b",
+"name": "Alternating Biceps Curls With Dumbbell",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "83128bfa-20c7-48f8-a0de-1d3e6bb1bf3b",
+"name": "Russian Twist",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6477e68e-27a9-4165-93f0-b94a30eac67f",
+"name": "PALLOF PRESS",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"abdominals",
+"abdominals",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d6cdcadf-c1e8-486e-aca6-052ebf5e94f5",
+"name": "Side Slides + Squats",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "948f064e-0127-4935-9661-9c2a0aed9604",
+"name": "Wall Drills",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5b6a6e3b-444d-4265-87b9-87fc7274373a",
+"name": "Inverted Rows",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "121f6364-0901-4e90-9895-b3937b348fb4",
+"name": "Tibialis raises",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2c58bd06-b986-482d-8156-1502b888199f",
+"name": "Dragon squat",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4406ac0a-39ed-4616-9dcd-3f4bf2857a11",
+"name": "Side Lying Hip Abduction",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "029d85b7-1b77-4baa-97b7-5d8135a91ae4",
+"name": "Calf raises, left leg",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ee767b2d-99ca-4da2-8117-d75e47945f5e",
+"name": "Cycling cardio session",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "6b77a0ac-b932-4c64-94bd-a18b3841a2c7",
+"name": "Wrist curl, dumbbells",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "83a5c65e-40ff-4d8e-8931-0748b2750d7c",
+"name": "Scorpion Kick",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "fa39d6f2-0efa-4b16-8660-266194e77f86",
+"name": "Prisoner Squat",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "0830bae6-4229-43c9-83f7-efbb059873b3",
+"name": "Shoulder width three-point push-up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "d1c3c4cb-9ccc-43d5-bd05-e1dd6088b0c9",
+"name": "Skydiver with arms in T-position",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "160d00fc-451d-485e-9a34-3763baadd2d7",
+"name": "Romanian deadlift, single leg",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5c897078-7350-46ce-9ddc-99b3eedda4bd",
+"name": "Front lever tuck",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4a8aab61-3caf-49a9-922b-4fa0302979a5",
+"name": "Reverse Snow Angel",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c2ae82e4-420b-4c9b-96b2-0f6d775e8425",
+"name": "Recruitment Pulls",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f284e872-ff6f-4310-a4f3-ce296fea3df7",
+"name": "Finger Pushup",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8cb0d6b3-172e-4305-b8b1-48816c6d1687",
+"name": "knee push-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b6075e1e-8589-45db-a332-657dae4f49d0",
+"name": "Australian pull-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "139ac95a-35b2-4bd0-970b-e6017d59520c",
+"name": "Claps over the head",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "359fc4c1-5f50-4b76-a4a9-94c5e0288e45",
+"name": "Dumbbell drag curls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "37e8e51f-1a41-49f5-b06d-59185af0b268",
+"name": "Dumbbell wide bicep curls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e34cc07e-984c-464b-89d3-55d786f284d4",
+"name": "Dumbbell bicep curl to press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b313717c-0e3a-4f53-884e-5ba2d26b6c32",
+"name": "Dumbbell rear delt row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bee31477-cd89-4f55-89c6-3b306e5c3fd7",
+"name": "Dumbbell close grip bench press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f7de091d-aabd-454d-a312-2ea6d432874a",
+"name": "Dumbbell upright-row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7281b9c4-d284-4349-bd45-e5ecb0555362",
+"name": "Triceps stretch left",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ba75e084-b1bb-4079-be58-b4541b64b645",
+"name": "Triceps stretch right",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "80cb3169-306b-43ba-a40e-2d075bc08d35",
+"name": "Standing biceps stretch left",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d9b8eeee-4d13-47a0-9d95-b0ae9ff73c48",
+"name": "Standing biceps stretch right",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fd8a54fe-e124-4ba2-99a7-bd226572ff05",
+"name": "Dumbbell Single-leg Hip Thrust",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a4244ba5-e589-4fa9-89bb-7e76305a3674",
+"name": "Frog stand",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"biceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4799af4f-e9f7-4c3f-a18d-ca391d2ac01e",
+"name": "Standing Calf Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b5ce39bb-3cb0-408b-8ffc-ece29da71983",
+"name": "Standing Soleus Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1c455259-0e8b-4077-abc9-3f9f08d46844",
+"name": "Exercise Band Dorsiflexion",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b4e18f79-e52e-443a-91e0-f25abafb2d70",
+"name": "Exercise Band Plantarflexion",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1f7dcea9-f227-407c-ab11-3533c5526eab",
+"name": "Double Leg Calf Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "686f297b-67b0-4ae5-bc88-88fdf8f96489",
+"name": "Yoga exercise: Cow-cat",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1ef79e91-c1ec-40f4-b731-aefa44d588c8",
+"name": "Front Lever",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "314c810a-1dde-4997-badd-69f081e4946d",
+"name": "TRX roll out",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cbb833dd-8732-4de8-99cc-a43a704b0054",
+"name": "Ice Scream maker",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3d5e311d-f833-4ba0-ad3a-b6bae018833e",
+"name": "Front lever pull-up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a19ecbd2-6a0b-4ad6-b286-d7287fc9d0dc",
+"name": "TRX Obliques",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cdb2db4b-da38-4736-bb92-540d0ecaa8d5",
+"name": "TRX hammer curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8f4b7e01-6562-4e10-904c-9ae1879b21a8",
+"name": "TRX gorilla biceps curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d9b54fb0-72c1-4675-aaac-444dd1bbf037",
+"name": "Trx Single Arm Bicep Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "28a10f99-7fb9-406e-826a-2d3ee1f63c18",
+"name": "Back bridge",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "979722f4-f65e-4e5a-ba26-a3ec4d363683",
+"name": "TRX Tricep Extension",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "20eba913-0afe-425d-88db-d7ffea3e3167",
+"name": "TRX dips",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "12e4e587-3372-4b24-af03-ea20e9db288b",
+"name": "Low Pulley Cable Fly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f6cd19b3-83c8-4c64-8957-9001c6c33c91",
+"name": "Low Pulley Cable fFly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8ff73a97-09b2-4147-b1eb-78b953b55924",
+"name": "Pullover",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c08144f6-dc20-4c78-972b-4ee7d3340ffb",
+"name": "Sitting Calf Stretch (Dorsiflexion)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9e192db9-2c72-4839-a22f-2f0e6fd40d1f",
+"name": "Plantarflexion Stretch with Band",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e6e06171-080c-46b7-9b3c-d00d8ef2b4cb",
+"name": "Incline Dumbbell Bench Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eb3e5181-15ef-437f-9c27-8412899f5c08",
+"name": "Incline Dumbbell Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1226d8bb-b201-46de-aea4-4ee39d2f493c",
+"name": "Dumbbell Chest Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0a23a336-5e24-49e9-b8cf-de36ef1c469c",
+"name": "Biceps Close Grip Pull Down",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ff38dc6f-0762-46f9-89f6-8ac2af89091b",
+"name": "Isometria trazioni impugnatura inversa",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bca84989-d0ca-466e-a766-a5313191d0a9",
+"name": "Incline Chest-Supported Dumbbell Row",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e2d0dbc9-5353-4261-9ce9-812d12be1a32",
+"name": "Pseudo Planche Push-up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e4a08625-d9c7-4ff5-8c15-dae812dcbd4b",
+"name": "Talons fesses",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1cd7b2c8-950d-4320-83c7-d056deb68a3a",
+"name": "Dynamic Planche",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1713c69f-38aa-4a03-8cec-eea3c17b9f21",
+"name": "Reach ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6098f247-f605-4611-bfc5-0e0b11242681",
+"name": "Planche de cote dynamique",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f7baa0bb-e7ff-43b6-961a-ddf2e5c061e3",
+"name": "Seated Dumbbell Curls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "70887a4e-0168-4487-88a2-9bfd76316a88",
+"name": "Reverse Grip Barbell Curls",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0d7bd909-1f55-40df-aead-8494e39eaac9",
+"name": "Trazioni impugnatura inversa",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0e69437c-3e0f-475c-9d1c-8838a7445096",
+"name": "One armed push-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "801d381c-9943-4ef0-a03b-b60fb7883674",
+"name": "Arco femorale una gamba",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9dda414a-8abd-43c3-acb0-a3b51b386079",
+"name": "Barbell Bench Press - NB",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0b4b7f24-cb55-43f1-90cc-03455670ae72",
+"name": "Low-Cable Cross-Over - NB",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "87211cf6-bf4c-4372-9870-9b0d25b1a14e",
+"name": "EZ-Bar Skullcrusher - NB",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c2e23e59-bd10-4eee-9c2b-4fa1ada42c67",
+"name": "High-Cable Cross Tricep Extention - NB",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4161fdae-be67-4518-bbab-e8c6ae3a7242",
+"name": "JM Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d97671ae-f289-4951-b975-3d944140d548",
+"name": "Helms Row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0a4645ce-0178-4b43-8c55-4699bf9d95d3",
+"name": "Meadows Row",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b75b7f9d-bfcd-4d04-91ea-f8a11c4a5751",
+"name": "Front Plank",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f0111b47-e07f-4395-ad7d-1783f0b792d3",
+"name": "Bodyweight Squat HD",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e408a9c5-1c2d-46aa-869d-b981e7b3bba3",
+"name": "Lying Leg Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6f797010-27a8-46df-a481-0b339125184e",
+"name": "Jumping Jack HD",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "930c9a09-933e-4294-b048-ad7744b34381",
+"name": "High Knee Skips HD",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d622d2ec-88fc-42eb-8043-128457da937c",
+"name": "Crunches HD",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "38cf0422-b79b-4760-b452-d4922494c71d",
+"name": "Bench Dips On Floor HD",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bc636254-4f97-4ef1-9430-d81f6a3fb5f0",
+"name": "Kopf\u00fcber Gewichtaufheben",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bd731bf6-f7ba-46aa-ab54-7393b2581fe5",
+"name": "Bodyweight lunge HD",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8117afd6-8de5-4df4-8bc3-1749ede320e9",
+"name": "Lateral Push Off",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "09c6b529-2aa6-4aae-98cf-db3cf93e8207",
+"name": "Forearm Curls (underhand grip)",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "78dd501c-efc2-4980-a242-f333b4983516",
+"name": "Triceps Overhead (Dumbbell)",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eca67beb-7f35-45cb-8524-65af6313117f",
+"name": "Shoulder Press (Dumbbell)",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6cadf55a-0fe2-4f04-ab36-1524c99d3f86",
+"name": "Schoulder Raise (Dumbbell)",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "991b4fa5-8814-4374-b275-b6abdfca7c99",
+"name": "Lower Back Extensions",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2d730c08-fbf1-4e88-a446-f36f4b755ee1",
+"name": "Dumbbell Hex Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "73b33b9f-c154-42e1-a611-701b5e3e4a1d",
+"name": "Double Kettlebell Clean and Press",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps",
+"biceps",
+"quadriceps",
+"traps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3962502b-b473-4aaa-b1bc-e964e8418136",
+"name": "Double Kettlebell Front Squat",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eb22a04f-48c8-41db-897a-942867edab52",
+"name": "Blackroll",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "3dbf60f5-0d4b-4baf-82ad-d4a767e63d67",
+"name": "Calf Raise with machine (seated)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "73d152bd-fde4-4e1d-8b2c-778a11cf27e4",
+"name": "Dumbbell Split Squat",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "bfa5a36b-03a5-48f3-9b3d-ae44a573c900",
+"name": "Dumbbell Deadlift",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a449c082-6e26-44fe-a2bf-506ad7753005",
+"name": "Triceps Dips (Assisted)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "26ec2908-9272-4222-9f4a-0dd91eb83b86",
+"name": "box jumps",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7aef0848-0ffb-431c-b09c-f650a6a9e08d",
+"name": "Rotary Torso Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ac7808e1-c2ff-446a-9ac5-10fe54ee5cfb",
+"name": "Recumbent Bike",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "552789c4-e68a-42ad-bf35-96e33a70934b",
+"name": "TORSO TWIST",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "76c7d412-7144-4b65-ba1f-52747af2de98",
+"name": "Cable Lateral Raises (Single Arm)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0db48e08-5f52-479b-b7fc-8566b0e57fec",
+"name": "Band pull-aparts",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4b11d8dd-d609-411a-8893-86b2f2f53e7f",
+"name": "Upper Back",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6af6593b-c55d-4d86-ae6f-0d8f60a3bda3",
+"name": "Pullover Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a47896e8-1c62-4cc7-bf41-930d8e1170ee",
+"name": "Hamstring Kicks",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bb949338-0d62-42bc-8077-0bd7e660e841",
+"name": "Single Leg RDL",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "98b86ab4-da54-4de9-b239-39493947a90a",
+"name": "Toe Touch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "376f7a82-9ff8-4112-9a39-edaecfe85648",
+"name": "Elephant Walks",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dd110052-7ece-4eab-9945-2948113da9b3",
+"name": "Good Morning",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "acd59a99-ba9f-4175-b49e-370828a4d402",
+"name": "Single Leg Hamstring Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "458ddfcb-b5a9-4d12-89f1-54975acedc07",
+"name": "Sit & Reach",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1078f75c-976e-4e56-91e3-26e7e28ed813",
+"name": "Crossbody Leg Swings",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a0033af1-c63d-41f0-b7da-1756b5850724",
+"name": "Standing Pancake",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d0fbe774-56bf-44fe-b6bb-196678cee924",
+"name": "Standing Pancake Good Morning",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "49369b7d-023c-4d7f-a252-70d684fe3aab",
+"name": "Hamstring Chokes",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3019fe23-8e2d-48cd-948e-c39334f548e4",
+"name": "Roll Down",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "3212f90d-c706-4a33-a228-3ae54ff0eac7",
+"name": "Crossbody Hamstring Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b295b660-dcb7-4970-ba96-4b57f7422c21",
+"name": "Plank-to-Elbow Extension",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"abdominals",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4591481c-5a39-4c15-ba64-747c56c6993e",
+"name": "Cossack squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5b2e67c7-015c-4c3f-939b-86b5b8ef2fc3",
+"name": "Wall-sit",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8882ac66-d185-463c-928d-c6ed48faf743",
+"name": "Dragon-flag",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3c3462c9-16e3-4eac-94bf-12b32cb74caa",
+"name": "Plank with Alternating Leg Lift",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d00a896e-0426-42bb-ab5b-43aa16acc4ac",
+"name": "Heel Touches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2a7af9f8-f44e-460c-b332-fcf60cda42a5",
+"name": "bicycle crunches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9f97983c-2eea-40f1-b4c8-3592716fa681",
+"name": "Hack Squats",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c7c888e9-00c5-416c-8a81-f3034393909d",
+"name": "Dumbbell Crunches",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f07d4a46-2ece-4d2f-9319-cc23f4086320",
+"name": "Biceps Curl Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7da93f8a-bc5d-4793-87ff-1ed22252a92a",
+"name": "Toe Taps",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "06ead0a5-34f2-4a7e-8749-035a82d7ef42",
+"name": "Standing Side Crunches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "300d8723-8330-46af-a95e-75c172af76f1",
+"name": "Dumbbell Shoulder Rotations",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "29254b00-946b-4a9b-a76c-29354a35845f",
+"name": "Plate Pinch Hold",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "43afa4fe-6188-4808-9d54-842b6ba47254",
+"name": "Reverse Wood Chops",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b507ee86-6cec-46f3-9708-ee82839985c5",
+"name": "Lat Pull DB",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3fad07d8-618c-479d-83ad-9ae5b44cbbab",
+"name": "Scapula Pulls",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "da069fa5-1e79-49fa-808f-0a95ad1701c5",
+"name": "Pin Bench Press BB",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fc554b85-6b79-4de8-9212-f3e4464c749d",
+"name": "Pin Squat",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6908b8b5-a56b-4962-973d-7c9d4408b5c5",
+"name": "Clean",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "48377dd7-c51a-4f02-988d-5246df367780",
+"name": "Pin OHP",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a58b2681-2c2b-4f1b-af64-c40e30c94ae0",
+"name": "Push OHP",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "513476ef-cd2e-4b18-9025-4d1e834f31e6",
+"name": "Incline OHP DB",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "341a4fe2-61ea-4c95-81ca-57cb992545e4",
+"name": "Kreis Press DB",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bb737264-6df5-4b1a-97d0-82e807350965",
+"name": "Shoulder Raise Side and Front DB",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "83c07e0d-4003-454f-bbe8-f6bedd420918",
+"name": "Incline Chest Press DB",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eba91172-05e6-456d-a2b5-ffa52cab1d04",
+"name": "Jerk OL",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "afd1194b-dee0-4add-8225-2690bc28879e",
+"name": "Clean and Jerk OL",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3934cdf7-154c-4676-9951-f719f7dd03f1",
+"name": "Snatch OL",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2734cc5a-87e6-45fc-adcd-4004b5987d4f",
+"name": "Seated W Curl",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ec599eb8-bb69-4f1d-bc4e-d14ad7527159",
+"name": "ClimbMill",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6a08c76d-0b46-4bb5-9d12-1996727c2a68",
+"name": "Cobra Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "931685ae-155c-41ba-84dd-9d1ad99ba1ea",
+"name": "Torso rotation stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a9d69acc-84e5-4954-92a2-999d3822e325",
+"name": "Knee to Chest Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "379b27db-5ded-48dd-827d-02d117e81fb9",
+"name": "Towel Superman",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e4bfc654-98ad-4961-98bd-f41466a7111b",
+"name": "Cable Press Around",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "49d9db94-389c-4b90-8b03-03c980e25975",
+"name": "Cross-Body Cable Y-Raise",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5dd4e82a-df0c-430a-b3ee-5fa1c8478289",
+"name": "No Leg Drive Dumbbell Chest Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d5170a32-e8d3-409e-be99-a253b81a7301",
+"name": "punches",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1f968340-2619-4cd9-b639-4b9d1a0cd3a1",
+"name": "Dumbbell Underhand Dead Row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "baca9bc1-85a7-4e0d-95aa-fd9c32afcad7",
+"name": "Pause Hack Squats",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "20827414-7b00-480a-ba2a-d6b4a5d7810f",
+"name": "Spider Curl",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "53f13dfe-3043-4f41-9414-3feb3a7c2e4b",
+"name": "Calf Raise using Hack Squat Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e556e2c8-24ef-441e-a56f-23f2195252f6",
+"name": "Incline Close Grip Barbell Bench Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2b8d530c-954f-4332-aee6-ade6a56f60ad",
+"name": "Floor Skull Crusher",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9bc8ce74-1e4f-4f7c-a55e-ea38bb26f84f",
+"name": "Bent over Cable Flye",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "57e34f52-88eb-46ae-9bd8-4ffb7774dbb0",
+"name": "1-Arm Half-Kneeling Lat Pulldown",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f67b90fd-3149-40c0-8a8c-19b1fa475f35",
+"name": "Kroc Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d82be0dc-f927-4f08-9117-a4c3338495ca",
+"name": "Cable Shrug-In",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c82967f5-7fac-43e4-b516-9db63d7fb542",
+"name": "Reverse Cable Flye",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3da2176c-3e5d-427e-84d8-a01b623583a7",
+"name": "W-Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "633a01fd-d392-4245-821c-c69a2632b8e5",
+"name": "Black Widow Knee Slides",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "664d9c3a-ddea-401a-8054-5ccee19a71ea",
+"name": "Butterfly Sit Up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "370e312f-ed39-4df1-a71d-71e85e2d7571",
+"name": "Seated Corkscrew",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "57174ad2-84f3-4f0a-a73e-b73b54b457dc",
+"name": "Levitation Crunch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d9e25534-e000-497e-9240-058ec4885ea7",
+"name": "Sit Up Elbow Thrust",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f135f2dc-b50f-4470-b077-bb61a67549bf",
+"name": "Lying Triceps Extensions",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3b453e5a-8c58-4f33-a9b8-3d7d00322464",
+"name": "Drag Pushdown",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2e726a38-9c5c-49a2-bc74-63e6e747e23e",
+"name": "Dumbbell Cheat Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7c171c60-f58f-4f74-a3f4-866e82d9b01a",
+"name": "Bizeps Curls Trifecta",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0e4911d2-548a-4d51-9432-283f7420e471",
+"name": "Omni Cable Cross-over",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "abc6dd77-c39c-4dca-a731-0e3e540251e6",
+"name": "Rocking Triceps Pushdown",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "281afbc1-381f-43e9-ba64-177375d3bbc2",
+"name": "Alternating High Cable Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "40f9ae59-1870-4e05-ae42-9a91506bee81",
+"name": "Hyper Y W Combo",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "52a3b378-9bcf-4b8d-8bcc-a61b264ac8bf",
+"name": "Dumbbell Pullover",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f253340c-8f1c-4431-b651-89a87b060c4d",
+"name": "Plank Jacks",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4ee28a5b-ed37-44cf-90dd-48e352ad60c1",
+"name": "Lying Triceps Kickback",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "183db424-d168-47c1-acfa-0ef5299959c6",
+"name": "Remada unilateral no cabo",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "34767373-5033-4d1c-ae3a-9b8e2947a067",
+"name": "High Row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c16dbcb4-6336-459a-b648-a2f0ce7fdf68",
+"name": "Bayesian Curl",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0169ded6-95dc-47e6-8725-8ea5769a0945",
+"name": "DB Upper Chest Variation",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "83d77094-f010-4f94-9768-bc537d7af7d1",
+"name": "DB Underhand bench press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1e4ef437-e426-410d-a7b6-ed6aa8c2e446",
+"name": "Elbows Tucked DB Bench Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cd847d3a-1faa-4490-8812-b459dd9a2c1c",
+"name": "DB Skull Crushers",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fe581474-0a72-410f-86bb-95d477d2c6e0",
+"name": "DB UCV",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cbd83519-7a8e-4e41-952c-0bca0c3b7e14",
+"name": "Alternative DB Gorilla rows",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ba778fd8-e5d8-4987-8e2d-9078e2110082",
+"name": "DB Cross Body Hammer Curls",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a2f4f3f8-582c-4aaa-9a17-df96d8e734a7",
+"name": "Dumbbell Frog Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ceaddaef-06a4-42ee-a335-d677304810cc",
+"name": "Dumbbell Bradford press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "211279c2-5f1b-49aa-818d-a16d9ae0d594",
+"name": "High-Incline Smith Machine Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a90096c1-fa50-4ab3-9918-0395b938b003",
+"name": "Cable Tricep Kickback",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5f92d7e1-4e21-484b-9645-2f66bea4f950",
+"name": "Neutral Grip Lat Pulldown",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9ed44155-f7ab-4d30-948f-7cf9edf325da",
+"name": "Kong Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4de70c8c-d995-4795-a50c-629dc833f4f5",
+"name": "Drop Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1fddce36-4a94-4d01-b72b-ed170a5930c9",
+"name": "Overhead Cable Tricep Extension",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "af549f3b-ef65-4b3b-ae42-a3233889d5b0",
+"name": "Lateral Walk",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "38b82e3c-43cc-4c98-827c-55adf1adeded",
+"name": "Leg Press Toe Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e6f978cc-2277-4cc8-b71b-b6f8f615bc95",
+"name": "Handstand",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2f84145b-681e-4f9e-848f-7df92922f253",
+"name": "Overhead Triceps Extension",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9530aeb3-bb3e-48c2-aeef-b5fc6064c5ea",
+"name": "Pendular hack",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8d050e84-6357-46f0-9953-322f728703b1",
+"name": "Sled Push",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ca63f248-3fc8-43de-9f7b-9bbc2e3f03d4",
+"name": "Battle Ropes",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"lats",
+"abdominals",
+"quadriceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "29d863f2-e611-4182-aaf0-4699b9c2ba2b",
+"name": "Ball Slams",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "acbbd5c9-a5ec-4f20-8f99-e44611473f94",
+"name": "Ski Machine",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"lats",
+"traps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "da76f66a-f083-48c9-99d3-e331ae3f0b56",
+"name": "Pendulum Squat",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fa0a47c0-ef5e-4cfa-9361-3e80bd5d49dd",
+"name": "Glute Drive",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "46a6db00-8524-48cb-807a-12f3d75f4e12",
+"name": "Toes to bar",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "eb71d001-100c-4d7e-9533-c37ab318992f",
+"name": "Lying Dumbbell Curls",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6f9a3652-6e40-4af8-846b-5dbfe2be9b44",
+"name": "Cable Curls",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c3ad64aa-2fb3-45d3-96fb-21906c71d6fc",
+"name": "lying bicep curl",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5119be20-933c-4102-9148-3f6ac9d031de",
+"name": "Delt Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bd50cc10-1fa3-4738-9cb1-32cdd48e97ad",
+"name": "Pull-up Isometric Hold",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4302adb4-7956-4fa0-b273-4575b1109ff0",
+"name": "Wide Pull Up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bb0c40c0-1728-4d7f-82a2-7fe5e732ef29",
+"name": "Archer Pull Up",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f9663985-8d98-4d73-a4a8-1b84208bfb0f",
+"name": "Larsen Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d2c534a5-88bc-429b-9a21-3e9c239baea1",
+"name": "Stair Master",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2f99b628-1389-40c0-8fa6-dcc72eea7b3b",
+"name": "Push-Up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "906e2287-dae0-4479-8951-3ab556aca03a",
+"name": "Clap Push-UP",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "37aefa13-9591-4159-bd9e-a4845901d912",
+"name": "Devil\u2019s Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "abe05849-3dc4-427a-8e6f-3ab458e492d6",
+"name": "Alternating dumbbell hammer curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "90e05e5e-c839-47d3-9a23-ed01ca86d2cd",
+"name": "Bird Dog",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "09871172-f43f-424a-b452-e52beca49b3b",
+"name": "Ab wheel",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "72f940d1-d98d-4709-9d1c-d1ea386be413",
+"name": "Schwimmen",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b51a3873-cb87-4679-8286-b2820a5cd2bb",
+"name": "Standing Dowel Shoulder press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "89cf88d1-e578-427e-96ac-e068b397196c",
+"name": "Snap Down",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1f0ae821-1987-47fb-b640-a78a78226ae9",
+"name": "Bretzel stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c6cfe6a7-4a1c-4a7f-96a5-8a32b6b5e771",
+"name": "Hip hinge",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "38d88b1a-1704-4483-836c-5dd501459443",
+"name": "Bronco",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "672352dd-77c6-4d5a-86bd-1beb27e24ac2",
+"name": "Perpendicular Unilateral Landmine Row",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "edcd46ab-28d4-4507-959c-be884786e1c9",
+"name": "Trap press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6008786a-ac24-4337-9de9-6d5bf0f0f98b",
+"name": "Side-laying interior rotation",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3ab6b105-10df-4f66-9325-417409d3bf85",
+"name": "Supine press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d7a6a419-0c7e-4580-9d8d-f285d748a372",
+"name": "March or jog in place",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d2c197f4-fe14-4737-b597-4f6d6714f140",
+"name": "Estiramiento de piernas y cadera",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4ef3243d-2918-48fd-9434-966472b590f1",
+"name": "Estiramiento de brazos y cuello",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "80527846-cfc0-4e4d-9338-b7ff3de165ea",
+"name": "Respiraci\u00f3n profunda (de pie o sentado)",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c101f72c-85f1-41de-bd0e-306a8931fd6f",
+"name": "Meditaci\u00f3n guiada o libre",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2f4ebd76-e4ac-44ae-9544-1044562d4164",
+"name": "Smith Machine Split Squat",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8e028835-53e7-4037-9831-218bff514058",
+"name": "Dumbbell Scaption",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f7f80c25-eed2-4ed1-93f8-b5705d84117d",
+"name": "Leg curl with elastic",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "658c8974-0bcb-41d1-b939-9dabf4140f01",
+"name": "Sliding Lateral Lunge",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cea92455-41cc-4d3e-a79c-6da22367ccc6",
+"name": "Copenhagen Adduction Exercise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "887e4234-0145-41d9-876f-bb7b57fd6442",
+"name": "Arm Raises (T/Y/I)",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"lats",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b38ca01d-7325-4f5a-8f12-8b89aba37ad6",
+"name": "Typewriter Pull-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "65b3c8b3-761c-49e4-8291-1d197ee04b7e",
+"name": "Bodyweight Biceps Curl",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "de1340a6-06b4-4db2-b28e-3b22c2de2b48",
+"name": "kettlebell sumo deadlift",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b1266d49-8a68-4523-b9da-ceae57b49a47",
+"name": "rubber band glute kickback",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e229025e-1d3a-4073-955e-ea46c4e3584f",
+"name": "Dumbbell Hip Thrust",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f7935740-7d31-420d-a701-7835632343e0",
+"name": "Treadmill Cardio",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b859303e-dd3c-44c8-8f0c-188521e4f851",
+"name": "Patada de burro con mancuerna",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "28e6955a-1fe2-40d0-9593-749eb93f9e4f",
+"name": "Cardio en bicicleta est\u00e1tica",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2439f916-fed8-40af-b86c-7dc7fe1dcc3f",
+"name": "Seated Dumbbell Calf Raise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b86c6bcd-6346-4492-8ddb-4d5c933253b8",
+"name": "Unilateral Cable row",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fd5e0ab4-63ab-44b3-859e-0c494d9b4428",
+"name": "Barbell squat",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "60f500a5-9656-4b2e-8b8d-897f0da80d48",
+"name": "Blaze",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"chest",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9ff6ac66-e687-4a21-ba49-2e9cbf7882a9",
+"name": "Rope Pullover/row",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b01040e3-5d6e-4d7b-8361-a6b51cc69df9",
+"name": "Modified pulldown",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "75f7115b-a70a-455d-ac52-ba40ae6cdba0",
+"name": "Single arm row",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6b8f45d0-85fb-48de-b958-b9247b2436f3",
+"name": "Barbell Clean and press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8982311d-55fd-4744-a35c-d53ac00c28f0",
+"name": "Dumbbell Bent Over Face Pull",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "828f1fa9-868d-46a3-979c-463cde2b071f",
+"name": "Dumbbell Front Squat",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bc0bfa07-eac1-423b-819c-9c6753efcd21",
+"name": "Kettlebell One Legged Deadlift",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "78b59647-1b44-4264-9e8e-b2df3af6a8fc",
+"name": "Dumbbell Incline Fly",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "46fbe9ca-988c-437e-acab-e5ec269153d9",
+"name": "Dumbbell Shrug",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "67e34e0e-9b1b-4736-b3a2-6e42b56847b6",
+"name": "Weighted Crunch",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "783dc486-2e5d-4259-ab20-7175bdc296b4",
+"name": "Concentration Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e83a8972-e7ca-4870-adc4-91d1e11a15ac",
+"name": "Dumbbell Side Bend",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "97d49605-0075-4342-9f30-95d68e090d63",
+"name": "Dumbbell Rear Lunge",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "002e5114-597e-43ac-a1aa-b0f7926382da",
+"name": "Dumbbell Romanian Deadlift",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5327bf9a-c362-43b1-afe3-1a6b4b22d15b",
+"name": "Dumbbell Side Squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dcc51a0a-d9ec-47b8-96a8-cbef4ae2d388",
+"name": "Machine lateral wise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d25750cc-eaf3-47ad-81f3-85367f1fac07",
+"name": "Machine Chest Press Exercise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ceaf8d4c-479a-418a-b110-d4a52a1ace59",
+"name": "Cable Chest Press - Decline",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "03176122-84d1-4a49-a783-aa0d9ff4dda2",
+"name": "Preacher Curl - Internally Rotated",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "36452749-48f8-4edc-9541-9afdc2b5d50a",
+"name": "Preacher Curl - Externally Rotated",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "36cf38c3-9130-4350-bb13-021127c41699",
+"name": "Lat Pulldown - Cross Body Single Arm",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "724a86c5-d569-4f21-a6b2-cc0bbb265ae3",
+"name": "Cable Chest Press - Incline",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a3656e5c-426f-4fdc-a667-c590e5e9a6d3",
+"name": "Cable Triceps Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "309d24f0-99af-4734-b882-272e2a1414b4",
+"name": "Cable Tri Extension - Internal Rotation",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d0c4a1ef-1d04-4ffc-9746-65aa935997ed",
+"name": "Cable Tri Extension - External Rotation",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9b24e22c-e04f-4bf3-9e0f-df71031609a4",
+"name": "Curl  - With Shoulder Elevated",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "936c19c6-ca46-4006-9ddc-b4f343eddc23",
+"name": "One Arm Overhead Cable Tricep Extension",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8a100276-d298-4210-a7a7-c2c9866c6c9d",
+"name": "Leg Swings (Front\u2013Back)",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b128393c-b85c-4ee1-a9f9-3ca303373395",
+"name": "Seated Hip Abduction",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7e288787-50ca-4cd4-9b15-40cf4fe16faa",
+"name": "Push-Ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1ac2d7b0-91b1-4242-909e-e7b79b0be14e",
+"name": "Dumbbell Bench Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "98a28d62-29f3-460a-a102-4c2e8df986d5",
+"name": "Wall Angels",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c7e59147-9941-480d-9d07-4c1e87e70740",
+"name": "seated figure four",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "64f54ece-a9c9-43f5-938c-de809d22a5e3",
+"name": "Zottman curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c34a2c74-2339-4b07-bc52-e20ddf007db7",
+"name": "Dumbbell Thruster",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9819a45f-b1cd-4464-8d7f-2e3cd5dafb80",
+"name": "Glute Bridge Single-Arm Press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ef97a407-8394-4f28-8c30-0092d7657e11",
+"name": "Bear crawl pull through",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"quadriceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "def2d31e-5bd9-4f7d-be40-b8aaada2b9ca",
+"name": "Kickstand RDL",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e8e210c5-7808-4280-816e-bdb09d8ed27b",
+"name": "Cable Fly Middle Chest",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "68e510b2-ca56-412d-914f-716ba122f6fc",
+"name": "Cable Fly Upper Chest",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3dcae508-5e1e-4bf9-b60a-718294cac1d5",
+"name": "Cable Fly Lower Chest",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3ad3ea1d-4a7b-4099-92e6-e30b488c3bf0",
+"name": "Incline Smith Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cd2aeff9-4066-4ecc-9b47-6ed7e8af8aa8",
+"name": "Incline Static Hold",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4605e188-fc43-4235-b97f-d49423a7d88a",
+"name": "Flat Machine Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7dbb0812-908e-4ae0-9a3f-7a016031044f",
+"name": "Pull-Ups (Wide Grip)",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c57be1c3-5dfc-42e1-9804-497045c22c00",
+"name": "Pull-Ups (Neutral Grip)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a05335d7-91b2-44e1-ae0c-beebff76e75e",
+"name": "Lat Pulldown (Wide Grip)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7bf3506d-37d8-457c-8f35-cfbd1afdca53",
+"name": "Barbell Row (Overhand)",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9af74153-749a-42dc-a998-6e241a096b0b",
+"name": "Barbell Row (Underhand)",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ad9c64c1-731d-45e8-acff-369b81cd32a0",
+"name": "Barbell Romanian Deadlift (RDL)",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "30be19a6-0bc8-4b09-a70d-44c73efb4143",
+"name": "One-Arm Heavy Row",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "606c9263-bd4f-4739-8b42-01da22a57838",
+"name": "Jal\u00f3n al pecho con agarre ancho",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e92c0b60-f8a9-49c9-ad76-2fdcdfc6181f",
+"name": "Patadas traseras",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "9edaf458-b333-4ab0-b063-0246af63a817",
+"name": "Tuck L-sit",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "08eef404-f074-4e54-bea1-da588bda17f3",
+"name": "Bulgarian Squat with Dumbbells",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2b8efcfc-861b-4a5f-b0f9-34b7f84a7d0e",
+"name": "Elevaci\u00f3n lateral polea",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "22e11532-11be-4057-847a-baf8388ef45a",
+"name": "Reverse Fly Standing",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0058685c-65ab-4347-b6e1-32f251de654e",
+"name": "Butchers Block Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c1724d71-9012-4f4a-aae8-55fbc6933700",
+"name": "Sleeper Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f20eaa3c-0b35-4e14-a4ba-e7fad017ddcd",
+"name": "Horizontal Shoulder Flexion Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3a3ebcbc-5edd-4135-88b9-1783a753f85b",
+"name": "Doorway Pectoral Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "08d1487e-6505-47e7-939a-8723e69e263a",
+"name": "Shoulder Dumbbell Pendular Exercise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"lats",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4fcef00d-0646-4b97-8754-be10690eef30",
+"name": "Shoulder External Rotation with Dumbbell",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8f9962e8-e512-4ba9-989b-c6172716c82b",
+"name": "Incline Shoulder Press Up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "69f230b2-1b05-46ed-9d7a-1a1dc48237fc",
+"name": "Neck extension",
+"equipment": "e-z curl bar",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2c7aa387-2bb2-4559-957f-3963ee60fe0a",
+"name": "Remo alto polea alta",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3d1a1689-7ceb-4fdb-801b-7ebc816ce4c0",
+"name": "Jalon caballero unialteral",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "42f27d57-7b19-464f-b2cf-1177a6d1b352",
+"name": "Glute Kickback (Machine)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e9a8de1a-6af3-4c35-858d-b839f77046e3",
+"name": "Standing Adduction (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "5e5e04ad-a750-4faf-b3ea-397feed76afb",
+"name": "Seated Row (Machine)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "96f8a9a4-e81c-46ec-80b4-72db9e42e240",
+"name": "Straight-Arm Pulldown (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fcd6bc74-d670-41f3-9385-269f4fa98679",
+"name": "Side Straight-Arm Pulldown (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5812567f-6c35-4205-8a66-b0f57b1e3c4d",
+"name": "Shoulder Internal Rotation (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "67cf4888-28ed-4fa6-bee0-1c24434fe954",
+"name": "Shoulder External Rotation (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d85618ff-5e22-441f-943b-01b39c109634",
+"name": "Side Lateral Raise (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a53b46d4-0242-4b8e-8125-1fd8b0aea7d0",
+"name": "Front Raise (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "89c7649f-214d-42cd-ac00-c496cdad0206",
+"name": "Face pulls with yellow/green band",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2df1ce8a-ab24-4ce2-98dd-e988608d5d02",
+"name": "Isometric Squat to Failure",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "25f14529-47c4-4d9c-b1df-306812c35575",
+"name": "Single-Leg Lunge with Kettlebell:",
+"equipment": "kettlebells",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6dac8fe0-60bb-4be7-a7e7-560b42015937",
+"name": "Single-leg side glute press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "833be9e4-eb83-45fe-98c0-74ba95cf458a",
+"name": "Single-Leg Deadlift with Dumbbell",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ac2035b3-bb5a-40bc-a05f-02d67a45282a",
+"name": "Assisted chin-ups",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "44aeba10-9ef9-4827-aa75-2647e7381502",
+"name": "Neutral-grip pull-ups or TRX rows",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ea097c66-dbe8-419f-9b0c-13da54cca2bd",
+"name": "Shrimp Squad",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "70c76fe3-4879-4100-ba37-ff31c18c6a3c",
+"name": "Single Leg Glute Bridge",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "0f8a6fe7-eaa5-457a-ae84-fe97b633da0b",
+"name": "L-Sit Pull-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "96a7e6e9-1604-45a1-813e-1e3374a53dbe",
+"name": "Back Lever",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b09d7088-2fe1-4219-9b2f-c8cd9d0d0593",
+"name": "Windshield Wipers",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d521872c-6e1f-44f6-b1ae-a83352a21852",
+"name": "Machine Side Lateral Raises",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4123458a-bd28-4542-9aec-1b2d11270839",
+"name": "Cable Front Raise with a small bar",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "143f23a8-dbb7-4fa1-94cd-f8330aff3474",
+"name": "Floor dumbbell bench press",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c939e05c-6657-43e2-8027-67611ba68a08",
+"name": "Smith machine squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "da4f64c5-2157-4b82-9567-f4746da0ffef",
+"name": "Machine Hip Abduction",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "8d178dff-e8e9-43c1-8c4d-126686073671",
+"name": "Cable pull through",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "2ac1b840-3d82-4b32-ac95-09c08138e357",
+"name": "Side lateral raise - Front (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3561162e-75d1-4d48-ab56-a575e10fed83",
+"name": "Side lateral raise - Back (Cable)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "44fbff41-9a73-4f67-867f-f8fcc551730e",
+"name": "45\u00b0 lateral raises",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "cadf9006-547e-4d36-8815-cccb5d7b0c2e",
+"name": "Shoulder Y-pull cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b573ee17-0fda-4ac4-85ce-8f31fae54172",
+"name": "supino",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "87a73555-2e74-4969-96a8-ad8601ab4e82",
+"name": "Plank Reach",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ecec7438-0ff0-455e-9be7-c4000af60e6f",
+"name": "bicep",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "ac6cf8f4-a08c-4223-9005-264eaba2b585",
+"name": "cabel",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "57ba75cd-aa06-457b-ba40-c9674ae4beb8",
+"name": "Seated machine row",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "bbe20748-d00b-4fc4-9bfa-d418b4a6a713",
+"name": "Wrist curl, cable",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "d9bf5b38-7fea-4a76-9f9c-b66ecfec792a",
+"name": "Reverse crunch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "78d2ce8d-81ff-4ba5-986e-50357b05eea6",
+"name": "Legend Incline Bench Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "84ce2d3f-0085-4f3e-9c75-bde8f3dd55d9",
+"name": "Chair dips",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f188cd25-d057-4d83-b1d0-13ef31120025",
+"name": "Pec deck rear delt fly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b5a3d97f-0fa8-46db-afed-07bf4c2d2c6f",
+"name": "Suitcase Carry",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2dd9d1cd-7570-43f9-bffb-99ae5e48d2d8",
+"name": "Deficit Push ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "88cfd72e-8e3b-4a3f-8718-0fd6a554e732",
+"name": "Supino inclinado",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8d226a54-cec9-4761-a1b1-cc9455fd6987",
+"name": "Landmine Rotation",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8f5eb4a4-779c-489a-9a98-70abd35282b0",
+"name": "unilateral cross body cable pull down",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "55647038-1d20-4d85-bb62-a4ec0d8df590",
+"name": "Barbell Full Squat",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6308d548-085c-4a22-9260-c41f93f89041",
+"name": "Trap Bar Squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "929dc8aa-70c7-4a16-83a5-33225a082553",
+"name": "ankle dorsiflexion rocks",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves",
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d67138e4-e3c9-4682-bd75-9786a68f8852",
+"name": "Lat Pull Down",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "56fe3ac2-88b8-4298-934c-a388740f5444",
+"name": "Behind the Back Cable Lateral Raise",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5013c6f0-fe40-46ab-9f2f-fb9aff1013cf",
+"name": "Parallel Bar Hold",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest",
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b03eb41f-bf06-4d6b-b2b2-b0538c1a0dfa",
+"name": "Reverse Hyperextension",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6ae9319d-6fe3-4528-b0ad-6f938d783b59",
+"name": "Sphinx",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "e154d163-0986-4a6a-b3eb-c7f480630b7c",
+"name": "Open Book",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "2b86aa60-c732-420a-9b85-74bd1e7475ad",
+"name": "Clamshell",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a4467032-8c94-411e-a73b-cb844b532171",
+"name": "Dumbell Tate Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6c2cea8d-cdc6-436c-81b0-75dc834cdd84",
+"name": "Chest-Supported Rear Delt Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "28062f15-1bd3-46c4-8c79-9dbbecc253d1",
+"name": "Band pull-apart with external rotation",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "409a0320-3426-4f3a-a466-b51cee75ca0e",
+"name": "Double-Leg Abdominal Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b2db3e5a-6381-4fd5-a79d-ccbd2e86aa35",
+"name": "Abdominal Draw-In",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eec63336-b0c6-4b39-ae9d-3e8e0966f126",
+"name": "Landmine Squat to Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f2ffb8fd-2855-4762-9005-71ad7de9abae",
+"name": "Barbell Step Back Lunge",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "27b93d2f-b899-4c4a-87b8-402bd07e9a10",
+"name": "Hammerstrength Decline Chest Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "356387f6-bc15-4b84-bc6b-107df16fd3e8",
+"name": "Ring Support Hold",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "3f42954d-d16c-4aed-b4c5-cd1c0e1268a9",
+"name": "Floor Glider Hamstring Curls",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "28c2327b-d504-4ffa-be15-c85c7ef6882b",
+"name": "Trap-3 Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "52608131-ee8d-4f62-9e27-0576f9f8a215",
+"name": "External Rotation Stretch",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "36cb753a-f58c-41e3-8f89-2d563d7d9701",
+"name": "Banded Shoulder Drills",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "ce79a43e-c03f-469f-9fec-05740ad2b4e5",
+"name": "Solo Hip Flexor Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "555ba5a2-2323-42d7-8b9d-4cfdfaa5f5b8",
+"name": "Bent-Leg Hamstring Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a606c9c1-502a-434a-8e71-eafe5d484b0f",
+"name": "Seated Shoulder Extension Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a3985f4b-436a-44f6-8a8a-f5103d92069d",
+"name": "Banded Clamshell",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "933ba231-3667-4294-8eb5-5e852d37d64b",
+"name": "Butterfly Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "95961794-b5aa-4d06-8dfa-56918300986f",
+"name": "Frog Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "451c28fd-596e-4029-8b35-6cabc32355d1",
+"name": "Seated Pancake Good Morning",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "affed7a9-b1a7-41d7-ba66-ab37c25f2f02",
+"name": "Horse Stance (Side Splits)",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d4f4c41c-4fe8-452b-9216-12c872523073",
+"name": "Straddle L-Sit",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cecb9f25-2519-42a7-8830-6a00fe8e1df0",
+"name": "L-sit",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f524cedd-e180-4596-ab57-4fad075d2845",
+"name": "L-Sit (Foot Supported)",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"chest",
+"abdominals",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dda046ac-4483-41b3-8850-61d5eb2b873e",
+"name": "Calves foam roller",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"calves"
+],
+"secondaryMuscles": []
+},
+{
+"id": "72e7315b-37d4-4fe8-99f8-7fe60c7009f3",
+"name": "Hamstring Foam roller",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4fc82315-28b3-4427-92dd-82ae5f98921a",
+"name": "Foam Roller Anterior tibialis",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "d9816fc1-6093-45e1-ba42-3137f1f3e82b",
+"name": "Foam Roller Iliotibial band",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "de4bbb5d-bba9-4d70-81b8-8ded053aaa79",
+"name": "Foam Roller quadriceps",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d22f5a10-03f4-4664-aabe-860e308fe9d0",
+"name": "Foam Roller Gluteus",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "fcd9ceaf-8069-495e-bb54-409cffdcdbdd",
+"name": "Foam Roller Adductors",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8a8cf117-84c2-40b3-92ce-329ccbf18f01",
+"name": "Side stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "62be7085-b7b2-43ab-8cdc-ffa3b190f84a",
+"name": "Hip Circles",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "fb19ccc8-ce3d-4fa6-879b-4a1f82b12d79",
+"name": "Hip Crossover",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a6265707-0065-4496-a163-4d559ac6b642",
+"name": "Ankle Roll",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "c55af9ce-a024-46fd-b18e-6c575539d643",
+"name": "Banded Ankle Mobility",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e757c9ce-3099-47d2-8fbc-b56a28544c71",
+"name": "Hip Flexor Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "f4d23764-fc03-4e98-b35a-8de8b6ca80e6",
+"name": "Lunge with Twist Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "a6aef811-c6f9-4760-8bcc-c98edfd71df2",
+"name": "Lying Figure Four Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e69f8321-baa1-4fb4-80e5-a396a179ef8a",
+"name": "Lying Hamstring Stretch with Band",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "d5edb938-3b73-4384-9b90-93dc469f7bda",
+"name": "Lying Knee to Chest Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b77d7bae-7155-4c4c-bf56-2cb523e24b74",
+"name": "Pigeon Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "4d1db59c-8a03-463c-96a6-b114308c8267",
+"name": "Quad Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "e144605d-6a3a-4a7e-a78c-36c4837d801d",
+"name": "Runners Lunge Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "8d8fec8b-9bbe-4582-82fc-c69e6c67987e",
+"name": "Standing IT Band Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "b0b16883-caac-490a-bbdf-981dc1398c4f",
+"name": "Supported Calf Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "284c7658-c89c-49e1-9f2d-5a08a2de77ca",
+"name": "Banded Scapular Retraction",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b1ce071c-3667-4652-a350-282931321272",
+"name": "Incline DB Y-Raise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b91bdc5a-27e6-40cd-9ef2-27c7a5ec7363",
+"name": "Wide Grip Pull Up",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5af3d5c8-f5b9-4ad1-9cb8-482a01264755",
+"name": "DB Wrist Extension",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "715eec2c-e2b7-4115-ac5e-01863b6ca2da",
+"name": "High-Cable Lateral Raise",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "eeda8966-7fa6-4394-8dd9-3e2e7c37800a",
+"name": "Machine Chest Press",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "948790fa-7679-4a33-8dfd-6958f4d879b8",
+"name": "Shinbox IR Stretch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c2918282-6da0-4d21-9950-851378a1922e",
+"name": "YTWL Exercise",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "642fe147-7543-415f-89da-80277782cda8",
+"name": "Supine Hip Abduction",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d392db6b-f343-4024-a086-5e4e9f2a59b8",
+"name": "Decline Bench Leg Raise",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "4c6b30ff-c89e-4735-8255-296f3b9b1e0d",
+"name": "Overhead Barbell Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "3b261e10-0ba3-4297-b0c2-81a1c3dd570e",
+"name": "Close-Grip Bench Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "06ccfe15-0e92-4c14-9536-6dee8045615b",
+"name": "Tricep Rope Pushdowns",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"triceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cb56285b-e4fe-4c3d-a159-1e0fd203a2e7",
+"name": "Clean and Press",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders"
+],
+"secondaryMuscles": []
+},
+{
+"id": "1d10ee1f-cd3e-4335-9589-ba8bc35091f9",
+"name": "Weighted push-ups",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5202d01f-2dac-4178-82ba-89f4a69911e7",
+"name": "Walking Lunges",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7235f311-2d7e-4cfa-a4fe-db0898e6202f",
+"name": "Pec Deck",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d1ed6252-7ea6-402d-8134-f4cf19b51294",
+"name": "Pullback",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"lats"
+],
+"secondaryMuscles": []
+},
+{
+"id": "7b21d758-2e74-4e7f-9d8a-3e8209845d4a",
+"name": "Hip Bridge",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "a5e1edb2-261d-4ca6-9701-e7eae7411269",
+"name": "Unilateral Lunges",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "40f33f28-b2fe-46f1-93e7-23808b47e080",
+"name": "Butterfly Superman",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "89c7ff2f-663c-4cc8-9bae-376ffe8b0313",
+"name": "Leg Wheel",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "69462354-d751-44a4-8af8-00f15b332cfa",
+"name": "Kneeling Superman",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"hamstrings",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "cce1a183-6642-4a86-a30c-189a1defd318",
+"name": "Cat Plank",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "f17db69f-c3cb-4de7-9da2-258319a4812e",
+"name": "Core Rotation",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"quadriceps",
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "082627fb-6f53-4ac7-81c7-d4224dade5b1",
+"name": "Unilateral Hip Thrust",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c212fe8e-a1e9-44d0-8c10-1737a869f3c5",
+"name": "Isometria alle parallele",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "15bd7b27-4fd6-4fda-8602-38ce357dbb93",
+"name": "Quadruped Hip Abduction",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "fd7ffeeb-590b-4b74-95f6-53c02623c8a1",
+"name": "Tuck planche",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"shoulders",
+"abdominals",
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c619e31d-2463-4aa5-b210-181b3b75676e",
+"name": "Legend Chest Press",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "85d6b83e-749a-40af-8875-de7e5e6ab54a",
+"name": "Extreme Pec Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "9cbf4065-364f-4c2c-9a4b-b6cbf569aaa8",
+"name": "Extreme Shoulder Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "24401430-3082-4527-a8ed-af8fff01bbae",
+"name": "Extreme Lat Stretch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+},
+{
+"id": "0407c6fa-9ebb-4ad3-95fd-1e94bd7e8f11",
+"name": "Seated Cable chest fly",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"chest"
+],
+"secondaryMuscles": []
+},
+{
+"id": "58dd7dc3-0029-49c4-8e5f-fecbba5ba16e",
+"name": "3008 Abdominal Crunch",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "5788eec1-35b8-40ae-a010-e03b64695466",
+"name": "Barbell Silverback Shrug",
+"equipment": "barbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c20705a1-1b6b-4724-b83d-47d2fc83f2fe",
+"name": "Inverted Lat Pull Down",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d26348bc-006d-47ac-a3fc-ddd3592920f0",
+"name": "Seated V-Grip Row",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "dc59f760-8c2f-446c-9f90-877fa236a8d4",
+"name": "Assisted Pull-Up",
+"equipment": "bands",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"lats",
+"traps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "d311ef25-e808-432d-a74f-09b75f849724",
+"name": "Dumbbell Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "b49054ca-ef7d-487d-bb26-681cd06e48de",
+"name": "Hammer Curl",
+"equipment": "dumbbell",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"biceps",
+"biceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "c2105905-eb31-4237-838c-7dd100ec884f",
+"name": "Abdominal Crunch",
+"equipment": "body only",
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"abdominals"
+],
+"secondaryMuscles": []
+},
+{
+"id": "6f283530-db56-4aaf-9858-6573434f1218",
+"name": "Belt Squat",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [
+"glutes",
+"quadriceps"
+],
+"secondaryMuscles": []
+},
+{
+"id": "85493329-1253-4e8a-9f5c-46ce807136b7",
+"name": "Cable Rear-Delt Fly (single arm)",
+"equipment": null,
+"category": "strength",
+"mechanic": null,
+"primaryMuscles": [],
+"secondaryMuscles": []
+}
+]

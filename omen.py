@@ -44,7 +44,7 @@ import dataclasses
 import hashlib
 import json
 
-STANDARD_VERSION = "0.1"  # embedded in every key, so identifiers are versioned
+STANDARD_VERSION = "0.2"  # embedded in every key, so identifiers are versioned
 
 
 # ===========================================================================
@@ -63,6 +63,9 @@ IMPLEMENTS = {
     "barbell", "dumbbell", "ez-bar", "trap-bar", "kettlebell", "cable",
     "machine", "smith-machine", "band", "bodyweight", "plate", "sandbag",
     "suspension", "medicine-ball",
+    # v0.2: implements attested in the coverage audit
+    "stability-ball", "sled", "atlas-stone", "ab-wheel", "tire",
+    "climbing-rope", "chain",
 }
 
 # Attachments are meaningful only for cable / machine; validated in context.
@@ -122,6 +125,42 @@ MOVEMENT_PATTERNS = {
     "anti-rotation": ("core", "isolation", "static", ["obliques"], []),
     "anti-lateral-flexion": ("core", "isolation", "static", ["obliques"], []),
     "rotation": ("core", "isolation", "pull", ["obliques"], []),
+    # ---- v0.2: completing the action set of each joint the standard covers ----
+    # shoulder
+    "shoulder-adduction": ("pull", "isolation", "pull",
+                          ["latissimus-dorsi", "pectoralis-major"], ["teres-major"]),
+    "shoulder-extension": ("pull", "isolation", "pull",
+                          ["latissimus-dorsi", "teres-major"], ["posterior-deltoid", "triceps"]),
+    "shoulder-horizontal-adduction": ("fly", "isolation", "push",
+                                     ["pectoralis-major"], ["anterior-deltoid"]),
+    "shoulder-internal-rotation": ("rotation", "isolation", "pull",
+                                  ["subscapularis"], ["pectoralis-major", "teres-major"]),
+    "shoulder-external-rotation": ("rotation", "isolation", "pull",
+                                  ["infraspinatus", "teres-minor"], ["posterior-deltoid"]),
+    # scapula
+    "scapular-elevation": ("shrug", "isolation", "pull",
+                          ["upper-trapezius"], ["levator-scapulae"]),
+    "scapular-depression": ("shrug", "isolation", "push",
+                           ["lower-trapezius"], ["latissimus-dorsi"]),
+    "scapular-retraction": ("row", "isolation", "pull",
+                           ["rhomboids", "mid-trapezius"], []),
+    "scapular-protraction": ("push", "isolation", "push",
+                            ["serratus-anterior"], []),
+    # hip
+    "hip-flexion": ("raise", "isolation", "pull",
+                   ["iliopsoas", "rectus-femoris"], ["sartorius"]),
+    # ankle
+    "dorsiflexion": ("raise", "isolation", "pull", ["tibialis-anterior"], []),
+    # spine
+    "spinal-extension": ("extension", "isolation", "pull",
+                        ["erector-spinae"], ["gluteus-maximus"]),
+    "spinal-lateral-flexion": ("core", "isolation", "pull",
+                              ["obliques"], ["quadratus-lumborum"]),
+    # cervical
+    "cervical-flexion": ("core", "isolation", "pull", ["sternocleidomastoid"], []),
+    "cervical-extension": ("core", "isolation", "pull", ["cervical-erectors"], []),
+    "cervical-lateral-flexion": ("core", "isolation", "pull",
+                                ["sternocleidomastoid"], ["upper-trapezius"]),
 }
 
 ANGLES = {"flat", "incline", "decline", "horizontal", "vertical"}

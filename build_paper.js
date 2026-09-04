@@ -137,13 +137,13 @@ children.push(
   new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 200 },
     children: [new TextRun({ text: "This manuscript is a preprint and has NOT been peer reviewed.", font: SANS, italics: true, size: 17, color: MUTE })] }),
   new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 320 },
-    children: [new TextRun({ text: "Preprint  ·  Standard version 0.1  ·  September 2026", font: SANS, size: 18, color: MUTE })] }),
+    children: [new TextRun({ text: "Preprint  ·  Standard version 0.2  ·  September 2026", font: SANS, size: 18, color: MUTE })] }),
   new Paragraph({ children: [new PageBreak()] }),
 );
 
 // ---- abstract ----
 children.push(h1("Abstract"));
-children.push(body("Resistance-training movements are named inconsistently across research, coaching, and software, and the cost of that inconsistency is now concrete: the same exercise appears under many names in the scientific literature, every exercise database invents its own schema, and no shared identifier lets a training log, a research dataset, and a coaching app refer to the same movement without ambiguity. Practitioner surveys confirm the problem is real and that professionals want it fixed, but the reforms proposed so far are style guidelines (recommended word orders) rather than computable standards. This paper proposes **OMEN** (Open Movement & Exercise Nomenclature): a generative naming standard that describes a movement as a bundle of orthogonal facets, derives its target musculature from its movement pattern rather than treating muscle as an input, and produces two deterministic outputs: a human-readable canonical string and a short, stable, language-neutral identifier suitable as a database primary key. OMEN separates three layers that existing systems conflate (the structured facet record, the canonical identifier, and the curated display name), the same separation that let systematic naming succeed in chemistry (SMILES, InChI) and clinical terminology (SNOMED CT). We give the facet schema and its controlled vocabularies, a fixed serialization order, a defaults mechanism that keeps everyday names short, a governance and versioning model, and an evaluation protocol centered on inter-annotator agreement. A working reference encoder and test suite accompany the standard; every canonical string and identifier in this paper is produced by that implementation. We also report an initial evaluation. Of 678 resistance-training records in an independent public database, **75.4%** are expressible in version 0.1 without inventing a term (**81.4%** of those whose own fields disclose enough to encode at all); the residual gaps cluster into six enumerable concepts that constitute the version 0.2 agenda; 511 distinct source names collapse to 253 keys, exposing synonymy directly; 79% of those names never state posture; and no key collision occurs across **2,498,496** generated records. The inter-annotator study on which a naming standard ultimately rests is specified but not yet run."));
+children.push(body("Resistance-training movements are named inconsistently across research, coaching, and software, and the cost of that inconsistency is now concrete: the same exercise appears under many names in the scientific literature, every exercise database invents its own schema, and no shared identifier lets a training log, a research dataset, and a coaching app refer to the same movement without ambiguity. Practitioner surveys confirm the problem is real and that professionals want it fixed, but the reforms proposed so far are style guidelines (recommended word orders) rather than computable standards. This paper proposes **OMEN** (Open Movement & Exercise Nomenclature): a generative naming standard that describes a movement as a bundle of orthogonal facets, derives its target musculature from its movement pattern rather than treating muscle as an input, and produces two deterministic outputs: a human-readable canonical string and a short, stable, language-neutral identifier suitable as a database primary key. OMEN separates three layers that existing systems conflate (the structured facet record, the canonical identifier, and the curated display name), the same separation that let systematic naming succeed in chemistry (SMILES, InChI) and clinical terminology (SNOMED CT). We give the facet schema and its controlled vocabularies, a fixed serialization order, a defaults mechanism that keeps everyday names short, a governance and versioning model, and an evaluation protocol centered on inter-annotator agreement. A working reference encoder and test suite accompany the standard; every canonical string and identifier in this paper is produced by that implementation. We also report an evaluation against two independent public databases. Of 678 resistance-training records in the Free Exercise DB, **84.7%** are expressible without inventing a term (**91.4%** of those whose own fields disclose enough to encode at all); on a second corpus, wger, only **1.9%** of records require a term the standard lacks. The residual gap in both corpora is a single principled category, the multi-phase Olympic lifts. 574 distinct source names collapse to 304 keys, exposing synonymy directly; **81%** of those names never state posture; and no key collision occurs across **6,054,048** generated records. A crosswalk mapping every audited record to its key is released with the standard. The inter-annotator study on which a naming standard ultimately rests is specified, with its materials published, but has not been run."));
 
 children.push(new Paragraph({ spacing: { before: 120 }, children: [new TextRun({ text: "Keywords: ", font: SANS, bold: true, size: 18, color: INK }), new TextRun({ text: "resistance training; exercise nomenclature; controlled vocabulary; faceted classification; ontology; data interoperability; movement patterns", font: SANS, size: 18, color: MUTE })] }));
 children.push(new Paragraph({ children: [new PageBreak()] }));
@@ -206,6 +206,7 @@ const dp = [
   ["Human and machine readable.", "The same record renders as a short human name and as a precise machine key, without either compromising the other."],
   ["Stable, versioned identifiers.", "Identifiers are language-neutral, permanent, and carry the standard's version, so a citation resolves to the same movement forever and changes to the standard never silently reinterpret old data."],
   ["Backward-compatible.", "Existing colloquial names map onto canonical records as curated aliases, so the standard augments rather than discards the vocabulary people already use."],
+  ["Anatomically complete.", "For every joint the standard covers, it provides the full set of that joint's actions, not only those that happen to be common in a gym. Completeness is a checkable property rather than an aspiration: for each action the vocabulary must contain its anatomical counterpart."],
   ["Governed and open.", "An open specification, an open reference implementation, and a defined process for proposing and ratifying new terms: the machinery by which a standard actually spreads."],
 ];
 dp.forEach(([t, d]) => children.push(bullet(`**${t}** ${d}`)));
@@ -256,8 +257,8 @@ children.push(bullet("**OMEN key**, a short, language-neutral identifier: a vers
 children.push(body("For the bench press, the reference implementation produces the following (verbatim):"));
 children.push(code("OMEN-C:  barbell horizontal-push"));
 children.push(code("OMEN-X:  posture=supine|implement=barbell|attachment=none|grip_orientation=pronated|\n         grip_width=standard|laterality=bilateral|pattern=horizontal-push|angle=flat|\n         contraction=dynamic|range=full"));
-children.push(code("key:     OMEN-0.1-VRQRJHQSX5NX6"));
-children.push(body("Because the key is a function of the canonical string, the same movement always yields the same key regardless of how it was authored, and any change to a facet (grip, laterality, angle, contraction) yields a different key. The version prefix (`OMEN-0.1-`) guarantees that identifiers minted under one edition of the standard are never silently reinterpreted by another."));
+children.push(code("key:     OMEN-0.2-VRQRJHQSX5NX6"));
+children.push(body("Because the key is a function of the canonical string, the same movement always yields the same key regardless of how it was authored, and any change to a facet (grip, laterality, angle, contraction) yields a different key. The version prefix (`OMEN-0.2-`) guarantees that identifiers minted under one edition of the standard are never silently reinterpreted by another."));
 
 // ---- 6. Worked examples ----
 children.push(figure("fig2_pipeline.png", 530, 237));
@@ -267,15 +268,15 @@ children.push(body("Table 3 shows a representative set of movements as encoded b
 children.push(table(
   ["Movement", "OMEN-C", "Primary muscles (derived)", "OMEN key"],
   [
-    ["Back squat", {t:"barbell squat", mono:true}, "quadriceps, gluteus-maximus", {t:"OMEN-0.1-HWYDOFIMW3MXQ", mono:true}],
-    ["Bench press", {t:"barbell horizontal-push", mono:true}, "pectoralis-major, ant.-deltoid, triceps", {t:"OMEN-0.1-VRQRJHQSX5NX6", mono:true}],
-    ["Incline DB press", {t:"incline dumbbell horizontal-push", mono:true}, "pectoralis-major, ant.-deltoid, triceps", {t:"OMEN-0.1-CRBWWU6C4RMIK", mono:true}],
-    ["Pull-up", {t:"vertical-pull", mono:true}, "latissimus-dorsi, teres-major", {t:"OMEN-0.1-L2SHL5OD62KEW", mono:true}],
-    ["Chin-up", {t:"supinated vertical-pull", mono:true}, "latissimus-dorsi, teres-major", {t:"OMEN-0.1-NJJ6HLRNNFORY", mono:true}],
-    ["Triceps pushdown", {t:"rope cable elbow-extension", mono:true}, "triceps", {t:"OMEN-0.1-LX2LC34DVHM4I", mono:true}],
-    ["Romanian deadlift", {t:"barbell hip-hinge", mono:true}, "glute-max, hamstrings, erectors", {t:"OMEN-0.1-K5R5GCRCMTPDE", mono:true}],
-    ["Plank", {t:"anti-extension isometric", mono:true}, "rectus-abdominis", {t:"OMEN-0.1-R77DG3ING3F7U", mono:true}],
-    ["(unnamed) 1-arm cable row", {t:"single-handle cable unilateral horizontal-pull", mono:true}, "lat-dorsi, rhomboids, mid-trap, post-delt", {t:"OMEN-0.1-6PY6ZOH7GNUNG", mono:true}],
+    ["Back squat", {t:"barbell squat", mono:true}, "quadriceps, gluteus-maximus", {t:"OMEN-0.2-HWYDOFIMW3MXQ", mono:true}],
+    ["Bench press", {t:"barbell horizontal-push", mono:true}, "pectoralis-major, ant.-deltoid, triceps", {t:"OMEN-0.2-VRQRJHQSX5NX6", mono:true}],
+    ["Incline DB press", {t:"incline dumbbell horizontal-push", mono:true}, "pectoralis-major, ant.-deltoid, triceps", {t:"OMEN-0.2-CRBWWU6C4RMIK", mono:true}],
+    ["Pull-up", {t:"vertical-pull", mono:true}, "latissimus-dorsi, teres-major", {t:"OMEN-0.2-L2SHL5OD62KEW", mono:true}],
+    ["Chin-up", {t:"supinated vertical-pull", mono:true}, "latissimus-dorsi, teres-major", {t:"OMEN-0.2-NJJ6HLRNNFORY", mono:true}],
+    ["Triceps pushdown", {t:"rope cable elbow-extension", mono:true}, "triceps", {t:"OMEN-0.2-LX2LC34DVHM4I", mono:true}],
+    ["Romanian deadlift", {t:"barbell hip-hinge", mono:true}, "glute-max, hamstrings, erectors", {t:"OMEN-0.2-K5R5GCRCMTPDE", mono:true}],
+    ["Plank", {t:"anti-extension isometric", mono:true}, "rectus-abdominis", {t:"OMEN-0.2-R77DG3ING3F7U", mono:true}],
+    ["(unnamed) 1-arm cable row", {t:"single-handle cable unilateral horizontal-pull", mono:true}, "lat-dorsi, rhomboids, mid-trap, post-delt", {t:"OMEN-0.2-6PY6ZOH7GNUNG", mono:true}],
   ],
   [1900, 3050, 2760, 1650],
 ));
@@ -285,7 +286,7 @@ children.push(caption("Table 3. Worked examples, produced verbatim by the OMEN r
 children.push(h1("7. Reference Implementation"));
 children.push(body("The standard ships with an open reference encoder (Python, no dependencies) that is the executable definition of the controlled vocabularies and the canonical algorithms. It exposes a movement record, validates it against the vocabularies, expands defaults, emits OMEN-C, OMEN-X, and the key, derives musculature and mechanic from the pattern, and resolves names both ways through the alias table. A standard with running code is adopted; a specification alone is not."));
 children.push(body("Correctness is enforced by a test suite that doubles as the standard's guarantees made executable: determinism (the same movement always yields the same key), non-collision (distinct movements never share a key across the alias table), predictable default expansion, first-class contraction (an eccentric-only variant is a distinct identity), and round-tripping (a colloquial name resolves to its record and back to its name). All tests pass in the accompanying release."));
-children.push(code("$ python omen.py --name \"chin-up\"\n\n  CHIN-UP\n  OMEN-C   supinated vertical-pull\n  OMEN key OMEN-0.1-NJJ6HLRNNFORY\n  primary muscles  latissimus-dorsi, teres-major"));
+children.push(code("$ python omen.py --name \"chin-up\"\n\n  CHIN-UP\n  OMEN-C   supinated vertical-pull\n  OMEN key OMEN-0.2-NJJ6HLRNNFORY\n  primary muscles  latissimus-dorsi, teres-major"));
 
 // ---- 8. Evaluation ----
 children.push(h1("8. Evaluation Protocol"));
@@ -298,44 +299,44 @@ children.push(bullet("**Backward-compatibility.** Map a corpus of colloquial and
 
 // ---- 9. Results ----
 children.push(h1("9. Results"));
-children.push(body("The protocol of Section 8 has been executed in part. Coverage, backward-compatibility and collision resistance were measured against an independent database and a generated cross-product of the vocabularies. The inter-annotator study was not run and remains the principal item of future work. Every number below is produced by the reference encoder and the audit scripts released with it."));
+children.push(body("The protocol of Section 8 has been executed in part. Coverage and backward-compatibility were measured against two independent databases, and collision resistance over a generated cross-product of the vocabularies. The inter-annotator study was not run; its materials are published with the standard and it remains the principal item of future work. Every number below is produced by the reference encoder and the audit scripts released with it."));
 
-children.push(h2("9.1 Coverage against an independent database"));
-children.push(body("We attempted to express every record of the Free Exercise DB, a public-domain database of 876 exercises, in OMEN v0.1. Of these, 198 lie outside the declared scope of version 0.1 (stretching, cardiovascular and plyometric entries), leaving **678 resistance-training records** as the denominator. Each record was mapped onto OMEN facets by a deterministic script that reads the database's structured fields (equipment, mechanic, primary musculature) together with the tokens of its display name, and draws only on the v0.1 controlled vocabularies. Failures were separated into two kinds, because they license different conclusions: records that require a term OMEN does not define, and records whose own fields do not disclose enough to encode them at all."));
-children.push(table(["Outcome", "Records", "Share"], [
-  ["Encodable in OMEN v0.1", "511", "75.4%"],
-  ["Requires a term OMEN does not define", "117", "17.3%"],
-  ["Source record underspecified (not an OMEN limitation)", "50", "7.4%"],
-  ["Total resistance-training records", "678", "100%"],
-], [5200, 2080, 2080]));
-children.push(caption("Table 4. Coverage of an independent exercise database by OMEN v0.1."));
-children.push(body("Coverage is therefore **75.4%** of all resistance-training records, or **81.4%** of the 628 records that carry enough information to be encoded at all. The distinction is worth preserving: the second figure measures the standard, the first measures the standard and the source data together."));
+children.push(h2("9.1 Coverage against two independent databases"));
+children.push(body("We attempted to express every record of two public exercise databases in OMEN. The Free Exercise DB contains 876 exercises, of which 198 lie outside the declared scope (stretching, cardiovascular and plyometric entries), leaving **678 resistance-training records**. The second corpus, wger, contributes **847** English-language exercises written under different naming conventions. Each record was mapped onto OMEN facets by a deterministic script reading the database's structured fields together with the tokens of its display name, drawing only on the controlled vocabularies. Critically, **the identical mapping script was used on both corpora**, so the second audit measures the standard rather than a per-corpus heuristic. Failures were separated into three kinds, because they license different conclusions: records requiring a term OMEN does not define, records the automated mapper could not resolve, and records whose own fields do not disclose enough to encode at all."));
+children.push(table(["Corpus", "In scope", "Encodable", "OMEN gap", "Not encodable", "Coverage"], [
+  ["Free Exercise DB", "678", "574", "54", "50", "84.7%  (91.4%)"],
+  ["wger", "847", "590", "16", "241", "69.7%  (89.8%)"],
+], [2100, 1100, 1400, 1200, 1800, 1760]));
+children.push(caption("Table 4. Coverage of two independent exercise databases. The bracketed figure is coverage of records carrying enough information to be encoded at all; the unbracketed figure includes records the source itself leaves underspecified. For wger the last column separates 16 genuine vocabulary gaps from 51 records the automated mapper could not resolve and 190 the source does not specify."));
+children.push(body("Coverage is therefore **84.7%** and **69.7%** of all in-scope records, or **91.4%** and **89.8%** of records carrying sufficient information. The agreement between two corpora with different naming conventions, audited by the same script, is the more informative result: on wger only **16 records (1.9%)** required a term the standard does not define."));
 
-children.push(h2("9.2 The extension queue"));
-children.push(body("The 117 vocabulary gaps are not scattered across the corpus; they collapse into a small number of recurring concepts. That is the result a facet standard should hope for, because it means the grammar is close to complete and what is missing is enumerable rather than open-ended. Table 5 is, in effect, the agenda for version 0.2."));
-children.push(table(["Missing concept", "Records", "Representative examples"], [
-  ["Olympic and other multi-phase lifts", "48", "Clean, Snatch, Hang Clean"],
-  ["Scapular elevation (shrug, upright row)", "16", "Barbell Shrug, Upright Row"],
-  ["Shoulder horizontal adduction (fly)", "13", "Cable Rear Delt Fly, Bodyweight Flyes"],
-  ["Cervical movement", "9", "Isometric Neck Exercise"],
-  ["Shoulder extension (pullover)", "5", "Bent-Arm Barbell Pullover"],
-  ["Complex multi-pattern movements", "3", "Turkish Get-Up, Thruster"],
-  ["Grip and finger flexion", "1", "Finger Curls"],
-  ["Implements not in v0.1", "22", "sled, atlas stone, stability ball, chains, ab wheel, tire"],
-], [4200, 1400, 3760]));
-children.push(caption("Table 5. Every gap found, grouped by the concept that would close it. Together these define the v0.2 extension queue."));
+children.push(h2("9.2 What remains uncovered is one principled category"));
+children.push(body("Earlier drafts of this standard showed gaps scattered across many unrelated concepts. Completing each joint's action set (Section 3) removed almost all of them. What survives is not a miscellany but a single coherent class: movements composed of *several patterns in sequence*."));
+children.push(table(["Concept still outside the vocabulary", "Free Exercise DB", "wger"], [
+  ["Olympic and other multi-phase lifts (clean, snatch, jerk)", "50", "9"],
+  ["Complex multi-pattern movements (thruster, Turkish get-up)", "3", "5"],
+  ["Grip and finger flexion", "1", "2"],
+], [5000, 2180, 2180]));
+children.push(caption("Table 5. Every remaining gap in both corpora. 53 of 54 and 14 of 16 are multi-phase or composite movements."));
+children.push(body("This is a scope boundary rather than a vocabulary omission, and it has the same shape as the dosage argument of Section 11: a clean is not one movement pattern but an ordered sequence of them. Naming it correctly requires a composite notation that *references* OMEN keys rather than a new facet inside one. We regard that as the primary design question for the next version, and prefer to state it as an open problem than to force a sequence into a single-pattern record."));
 
 children.push(h2("9.3 Synonymy captured and underspecification exposed"));
-children.push(body("Two by-products of the audit bear directly on the argument of Section 1. First, the 511 encodable records, written by their authors as 511 distinct names, resolved to **253 distinct keys**, forming **93 clusters** in which two or more names denote one movement: Barbell Full Squat, Barbell Hack Squat and Barbell Squat To A Bench, for instance, share a key. Synonymy is captured by construction rather than asserted. Second, **404 of the 511 names (79%)** did not state posture anywhere in the name or the record, so posture had to be supplied by the pattern default. The claim that existing exercise names are underspecified is therefore not rhetorical; it is measurable, and it is the majority case."));
+children.push(body("Two by-products of the audit bear directly on the argument of Section 1. First, the 574 encodable Free Exercise DB records, written by their authors as 574 distinct names, resolved to **304 distinct keys**, forming **106 clusters** in which two or more names denote one movement; on wger, 590 names resolved to 233 keys across 79 clusters. Synonymy is captured by construction rather than asserted. Second, **81%** of the Free Exercise DB names did not state posture anywhere in the name or the record, so posture had to be supplied by the pattern default. The claim that existing exercise names are underspecified is therefore measurable, and it is the majority case."));
 
 children.push(h2("9.4 Collision resistance and determinism"));
-children.push(body("Collision resistance was measured over a generated cross-product of the controlled vocabularies rather than argued from the properties of the hash. Two sweeps were run: one of 2,402,400 records spanning every combination of posture, implement, pattern, laterality, angle, contraction and range, and a second of 96,096 spanning grip orientation and width. Across **2,498,496 distinct canonical forms no two produced the same key.** Determinism and independence from field order were confirmed over 20,000 randomly generated records."));
+children.push(body("Collision resistance was measured over a generated cross-product of the controlled vocabularies rather than argued from properties of the hash. Two sweeps were run: 5,821,200 records spanning every combination of posture, implement, pattern, laterality, angle, contraction and range, and a further 232,848 spanning grip orientation and width. Across **6,054,048 distinct canonical forms no two produced the same key.** Determinism and independence from field order were confirmed over 20,000 randomly generated records."));
 children.push(table(["Property tested", "Records", "Result"], [
-  ["Distinct canonical forms encoded", "2,498,496", "0 collisions"],
+  ["Distinct canonical forms encoded", "6,054,048", "0 collisions"],
   ["Determinism (repeated encoding)", "20,000", "identical keys"],
   ["Independence from field order", "20,000", "identical keys"],
 ], [4400, 2480, 2480]));
 children.push(caption("Table 6. Collision and determinism sweep over the generated facet space."));
+
+children.push(h2("9.5 Versioning demonstrated"));
+children.push(body("Because the key is a version prefix applied to a hash of the canonical string, and the canonical string does not itself contain the version, extending the vocabulary between editions changed every identifier's prefix and no identifier's hash. The bench press encoded as OMEN-0.1-VRQRJHQSX5NX6 under the earlier edition and encodes as OMEN-0.2-VRQRJHQSX5NX6 under this one. A consumer can therefore tell which edition minted a code and can recognise that the two denote the same movement, which is precisely the property Section 10 claims."));
+
+children.push(h2("9.6 A crosswalk as the first usable artifact"));
+children.push(body("The audit produces something directly adoptable: a crosswalk mapping all 574 encodable Free Exercise DB records to their OMEN keys, canonical forms, facets and derived musculature, released as CSV and JSON. Any application already using that database can acquire stable identifiers by joining on it, without adopting the standard wholesale. We regard this, rather than the coverage percentage, as the most immediately useful output of the evaluation."));
 
 // ---- 10. Governance ----
 children.push(h1("10. Governance and Versioning"));
@@ -344,17 +345,20 @@ children.push(bullet("**Maintaining authority.** An open registry owns the contr
 children.push(bullet("**Versioning.** The standard follows semantic versioning, and the major version is embedded in every key's prefix, so identifiers are self-dating and a consumer always knows which edition minted a code."));
 children.push(bullet("**Extension.** New patterns, implements, or terms are proposed to the registry with a rationale and worked examples, reviewed for overlap with existing terms, and ratified into a numbered release: the mechanism by which the grammar grows without fragmenting."));
 children.push(bullet("**Deprecation and merging.** Terms are never silently removed; they are deprecated with a mapping to their replacement, and identifiers remain permanently resolvable, so published citations never rot."));
+children.push(bullet("**A registry needs a first artifact.** A governance model with nothing to govern does not attract adopters. The crosswalk of Section 9.6 is offered as that first artifact: a concrete, versioned mapping between an existing database and the standard, the smallest useful thing a registry can publish."));
 children.push(bullet("**Internationalization.** Because identity is language-neutral, display names are a localizable layer: the registry can carry language reference sets so a single key renders in many languages without changing identity."));
 
 // ---- 10. Limitations ----
 children.push(h1("11. Limitations and Future Work"));
 children.push(body("OMEN, as drafted, scopes itself deliberately to the *identity of a resistance-training movement.* Several boundaries and extensions follow."));
 children.push(bullet("**Dosage is a separate layer.** How a movement is *performed in a session* (load, sets, repetitions, rest, tempo prescription) is a distinct standardization problem. OMEN names the movement; a companion dosage notation should reference OMEN keys rather than fold into them."));
-children.push(bullet("**Beyond resistance training.** Cardiovascular, mobility, sport-specific, and rehabilitation movements are out of scope for version 0.1. The facet approach should extend to them, but each brings axes (duration, intensity zones, sport context) that need their own vocabularies."));
+children.push(bullet("**Beyond resistance training.** Cardiovascular, mobility, sport-specific, and rehabilitation movements are out of scope for version 0.2. The facet approach should extend to them, but each brings axes (duration, intensity zones, sport context) that need their own vocabularies."));
 children.push(bullet("**Granularity of muscle and pattern.** The pattern-to-muscle table is intentionally coarse; linking it to a formal anatomical ontology and allowing finer variants (for example, a curl biased to the brachialis) is future work."));
-children.push(bullet("**Inter-annotator agreement is not yet measured.** Section 9 reports coverage, synonymy, collision resistance and determinism, all of which a machine can measure. The central claim of any naming standard, that independent trained humans encode the same movement identically, requires annotators and has not been run. Until it is, OMEN's reproducibility is demonstrated for the encoder and not yet for its users."));
-children.push(bullet("**The coverage audit is automated.** Records were mapped to facets by script rather than by expert annotators, which is a proxy for manual encoding and not a substitute for it. The mapping heuristics are released with the audit so the figure can be reproduced, checked and contested."));
-children.push(bullet("**A single database was audited.** Coverage is reported against one public corpus. Repeating the audit on wger and on a sample of research-article exercise names would test whether 75% generalizes."));
+children.push(bullet("**Inter-annotator agreement is not yet measured.** Section 9 reports coverage, synonymy, collision resistance and determinism, all of which a machine can measure. The central claim of any naming standard, that independent trained humans encode the same movement identically, requires annotators and has not been run. The full study materials (instructions, a 30-movement set, a response template, and a scoring script computing exact-key agreement and per-facet Fleiss' kappa) are released with the standard so others can run it, but until results exist OMEN's reproducibility is demonstrated for the encoder and not for its users."));
+children.push(bullet("**The coverage audit is automated.** Records were mapped to facets by script rather than by expert annotators, which is a proxy for manual encoding and not a substitute for it. Two mitigations are released: the mapping heuristics are published so the figure can be reproduced and contested, and a fixed-seed 50-record sample with a comparison script is provided so a human encoder can measure how far the automated mapping departs from their judgement."));
+children.push(bullet("**Multi-phase movements are out of scope.** As Section 9.2 reports, essentially the entire residual gap in both corpora is the Olympic lifts and similar composite movements. OMEN names a single movement pattern; a clean is a sequence. A composite notation referencing OMEN keys is the main open design question."));
+children.push(bullet("**The provenance of the vocabularies is uneven.** The joint-action patterns follow standard anatomical terminology of motion. The higher-level patterns (squat, hinge, lunge, carry) follow the movement-pattern taxonomy widely used in strength and conditioning practice, which is practitioner convention rather than a peer-reviewed classification; OMEN makes it explicit and testable rather than claiming to derive it. The pattern-to-muscle table encodes conventional textbook attributions and is deliberately coarse: it is not a systematic review of electromyographic evidence and should be read as a defensible default rather than a finding. Binding muscle terms to a formal anatomy ontology such as the Foundational Model of Anatomy (Rosse & Mejino, 2003) is future work."));
+children.push(bullet("**Two corpora, both community-built.** Coverage is reported against two open exercise databases. Neither is a sample of exercise names as they appear in the research literature, which is where the inconsistency was originally documented (Nuzzo, 2021). Auditing a corpus of published article titles would test whether these figures generalise to scientific writing."));
 
 // ---- 11. Conclusion ----
 children.push(h1("12. Conclusion"));
@@ -362,7 +366,7 @@ children.push(body("Exercise naming is inconsistent, the inconsistency has a mea
 
 // ---- References ----
 children.push(h1("Data and Code Availability"));
-children.push(body("The OMEN reference encoder, its test suite (18 tests, all passing), the coverage-audit and collision-sweep scripts, and the machine-readable controlled vocabularies are released under an open licence at the project repository. The exercise corpus audited in Section 9 is the public-domain Free Exercise DB. All figures reported here regenerate from the released scripts."));
+children.push(body("The OMEN reference encoder, its test suite (18 tests, all passing), the coverage-audit and collision-sweep scripts, and the machine-readable controlled vocabularies are released under an open licence at the project repository. The corpora audited in Section 9 are the public-domain Free Exercise DB and the open wger exercise database. The crosswalk (CSV and JSON), the inter-annotator study materials, and the manual-validation sample are released in the same repository. All figures reported here regenerate from the released scripts."));
 children.push(body("**Repository:** https://github.com/AbleVLabs/omen"));
 children.push(h1("Author Contributions"));
 children.push(body("C.A.V. is the sole author. He conceived and directed the project, specified and approved the design of the standard, verified the results reported in Section 9 by independently re-running the released audit scripts, and reviewed and approved the final manuscript."));
@@ -381,6 +385,7 @@ const refs = [
   "Kim, H., Mentzer, J., & Taira, R. (2019). Developing a physical activity ontology to support the interoperability of physical activity data. Journal of Medical Internet Research, 21(4), e12776. doi:10.2196/12776",
   "Liu, X., Yang, Y., Zong, H., et al. (2024). Core reference ontology for individualized exercise prescription. Scientific Data, 11. doi:10.1038/s41597-024-04217-9",
   "Kinetic human movement ontology: a semantic terminology model to symbolically represent physiological movement. (2026). Scientific Data. doi:10.1038/s41597-026-06984-z",
+  "Rosse, C., & Mejino, J. L. V. (2003). A reference ontology for biomedical informatics: the Foundational Model of Anatomy. Journal of Biomedical Informatics, 36(6), 478-500. doi:10.1016/j.jbi.2003.11.007",
   "Weininger, D. (1988). SMILES, a chemical language and information system. Journal of Chemical Information and Computer Sciences, 28(1), 31-36. doi:10.1021/ci00057a005",
   "Heller, S. R., McNaught, A., Pletnev, I., Stein, S., & Tchekhovskoi, D. (2015). InChI, the IUPAC International Chemical Identifier. Journal of Cheminformatics, 7, 23. doi:10.1186/s13321-015-0068-4",
   "Free Exercise DB. Open public-domain exercise dataset (JSON). https://github.com/yuhonas/free-exercise-db",

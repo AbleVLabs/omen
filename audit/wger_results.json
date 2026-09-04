@@ -1,0 +1,11 @@
+{
+ "corpus": "wger",
+ "n": 847,
+ "encoded": 590,
+ "gap": 16,
+ "mapper_undetermined": 51,
+ "underspecified": 190,
+ "coverage_pct": 69.7,
+ "coverage_adj_pct": 89.8,
+ "keys": 233
+}
